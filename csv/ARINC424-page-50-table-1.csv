@@ -1,0 +1,8 @@
+"Column","Field Name (Length)","Reference"
+"1 thru 38","Fields as on Primary Records",""
+"39","Continuation Record No. (1)","5.16"
+"40","Application Type (1)","5.91"
+"41 thru 109","Notes (69)","5.61"
+"110 thru 123","Reserved (Expansion) (14)",""
+"124 thru 128","File Record No. (5)","5.31"
+"129 thru 132","Cycle Date (4)","5.32"

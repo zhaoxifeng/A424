@@ -1,0 +1,2069 @@
+1 continue number,2 area code,3 VOR idertifier,4 VOR latitude,5 VOR longitude,6 airport:,7 VOR name
+0,CAN,ADK ,         ,          ,    ,MOUNT MOFFETT            
+0,CAN,AFE ,         ,          ,    ,KAKE                     
+0,CAN,AKN ,N58432897,W156450845,    ,KING SALMON              
+0,CAN,AKW ,         ,          ,    ,KLAWOCK                  
+0,CAN,ANN ,N55033747,W131344224,    ,ANNETTE ISLAND           
+0,CAN,BER ,         ,          ,    ,ADAK                     
+0,CAN,BET ,N60470541,W161492759,    ,BETHEL                   
+0,CAN,BGQ ,N61340996,W149580177,    ,BIG LAKE                 
+0,CAN,BIG ,N64001606,W145430209,    ,BIG DELTA                
+0,CAN,BKA ,N56513387,W135330472,    ,BIORKA ISLAND            
+0,CAN,BRW ,N71162434,W156471722,    ,BARROW                   
+0,CAN,BTT ,N66541803,W151320918,    ,BETTLES                  
+0,CAN,BVK ,         ,          ,    ,BUCKLAND                 
+0,CAN,CDB ,N55160226,W162462639,    ,COLD BAY                 
+0,CAN,CZF ,         ,          ,    ,CAPE ROMANZOF            
+0,CAN,DGG ,         ,          ,    ,RED DOG                  
+0,CAN,DLG ,N58593924,W158330799,    ,DILLINGHAM               
+0,CAN,DUT ,         ,          ,    ,DUTCH HARBOR             
+0,CAN,EDF ,         ,          ,    ,ELMENDORF                
+0,CAN,EHM ,         ,          ,    ,CAPE NEWENHAM            
+0,CAN,EIL ,         ,          ,    ,EIELSON                  
+0,CAN,ENA ,N60365293,W151114287,    ,KENAI                    
+0,CAN,ENM ,N62470452,W164291512,    ,EMMONAK                  
+0,CAN,ENN ,N64352404,W149042234,    ,NENANA                   
+0,CAN,FAI ,N64480025,W148004311,    ,FAIRBANKS                
+0,CAN,FYU ,N66342731,W145163597,    ,FORT YUKON               
+0,CAN,GAL ,N64441730,W156463767,    ,GALENA                   
+0,CAN,GAM ,         ,          ,    ,GAMBELL                  
+0,CAN,GKN ,N62091351,W145265051,    ,GULKANA                  
+0,CAN,HBT ,         ,          ,    ,BORLAND                  
+0,CAN,HOM ,N59423395,W151272376,    ,HOMER                    
+0,CAN,HPB ,N61305165,W166080413,    ,HOOPER BAY               
+0,CAN,HSL ,N65422835,W156214711,    ,HUSLIA                   
+0,CAN,ILI ,         ,          ,    ,ILIAMNA                  
+0,CAN,JOH ,N60285143,W146355761,    ,JOHNSTONE POINT          
+0,CAN,KKA ,         ,          ,    ,KOYUK                    
+0,CAN,LUR ,         ,          ,    ,CAPE LISBURNE            
+0,CAN,LVD ,N56280375,W133045921,    ,LEVEL ISLAND             
+0,CAN,MCG ,N62570372,W155364097,    ,MC GRATH                 
+0,CAN,MDO ,N59251850,W146210005,    ,MIDDLETON ISLAND         
+0,CAN,MOS ,N64414749,W162041657,    ,MOSES POINT              
+0,CAN,ODK ,N57463013,W152202342,    ,KODIAK                   
+0,CAN,OLT ,         ,          ,    ,SOLDOTNA                 
+0,CAN,OME ,N64290639,W165151143,    ,NOME                     
+0,CAN,OQK ,         ,          ,    ,NOATAK                   
+0,CAN,ORT ,N62564992,W141544539,    ,NORTHWAY                 
+0,CAN,OTZ ,N66530846,W162322378,    ,KOTZEBUE                 
+0,CAN,PDN ,         ,          ,    ,PORT HEIDEN              
+0,CAN,SCC ,N70115711,W148245817,    ,DEADHORSE                
+0,CAN,SPY ,         ,          ,    ,ST PAUL ISLAND           
+0,CAN,SQA ,N61055489,W155380449,    ,SPARREVOHN               
+0,CAN,SRI ,         ,          ,    ,PRIBILOF                 
+0,CAN,SSR ,N58103958,W135153191,    ,SISTERS ISLAND           
+0,CAN,SYA ,N52430578,E174034350,    ,SHEMYA                   
+0,CAN,TAL ,N65103765,W152103918,    ,TANANA                   
+0,CAN,TED ,N61100432,W149573651,    ,ANCHORAGE                
+0,CAN,TKA ,N62175416,W150061890,    ,TALKEETNA                
+0,CAN,TNC ,         ,          ,    ,TIN CITY                 
+0,CAN,TOG ,         ,          ,    ,TOGIAK                   
+0,CAN,ULL ,N63413239,W170281165,    ,KUKULIAK                 
+0,CAN,UNK ,N63533099,W160410339,    ,UNALAKLEET               
+0,CAN,UTO ,         ,          ,    ,UTOPIA CREEK             
+0,CAN,VBI ,N49283700,W094024800,    ,SIOUX NARROWS            
+0,CAN,VLN ,N50400100,W104532300,    ,LUMSDEN                  
+0,CAN,VLV ,         ,          ,    ,BEAUCE                   
+0,CAN,WLK ,N66355811,W159592698,    ,SELAWIK                  
+0,CAN,YAK ,N59303899,W139385326,    ,YAKUTAT                  
+0,CAN,YBR ,N49543599,W099564439,    ,BRANDON                  
+0,CAN,YDC ,N49225360,W120222539,    ,PRINCETON                
+0,CAN,YFC ,N45534300,W066250800,    ,FREDERICTON              
+0,CAN,YOW ,N45263013,W075534896,    ,OTTAWA                   
+0,CAN,YQB ,N46421911,W071373454,    ,QUEBEC                   
+0,CAN,YQI ,N43493035,W066045675,    ,YARMOUTH                 
+0,CAN,YQL ,N49380384,W112400403,    ,LETHBRIDGE               
+0,CAN,YQM ,N46112024,W064341471,    ,MONCTON                  
+0,CAN,YQT ,N48151356,W089261528,    ,THUNDER BAY              
+0,CAN,YSJ ,N45242626,W065521280,    ,SAINT JOHN               
+0,CAN,YTS ,N48341964,W081221717,    ,TIMMINS                  
+0,CAN,YUL ,N45365700,W073581500,    ,MONTREAL                 
+0,CAN,YVR ,N49043835,W123085666,    ,VANCOUVER                
+0,CAN,YVV ,N44444100,W081061800,    ,WIARTON                  
+0,CAN,YWG ,N49553997,W097142108,    ,WINNIPEG                 
+0,CAN,YWL ,N52141300,W122101100,    ,WILLIAMS LAKE            
+0,CAN,YXC ,N49331795,W116051573,    ,CRANBROOK                
+0,CAN,YXU ,N43021648,W081085615,    ,LONDON                   
+0,CAN,YXY ,N60370800,W135082000,    ,WHITEHORSE               
+0,CAN,YYC ,N51065400,W113525200,    ,CALGARY                  
+0,CAN,YYJ ,N48433735,W123290370,    ,VICTORIA                 
+0,CAN,YYN ,N50174900,W107412500,    ,SWIFT CURRENT            
+0,CAN,YYY ,N48364372,W068123235,    ,MONT JOLI                
+0,CAN,YYZ ,N43392887,W079375315,    ,TORONTO                  
+0,CAN,YZP ,N53150800,W131482510,    ,SANDSPIT                 
+0,CAN,YZT ,N50410290,W127215510,    ,PORT HARDY               
+0,CAN,IBET,         ,          ,PABE,BETHEL                   
+0,CAN,IBIG,         ,          ,PABI,ALLEN AAF                
+0,CAN,IBRW,         ,          ,PABR,WILEY POST-WILL ROGERS M 
+0,CAN,ICDV,         ,          ,PACV,MERLE K (MUDHOLE) SMITH  
+0,CAN,IDLG,         ,          ,PADL,DILLINGHAM               
+0,CAN,IADQ,         ,          ,PADQ,KODIAK                   
+0,CAN,IENA,         ,          ,PAEN,KENAI MUNI               
+0,CAN,ICNA,         ,          ,PAFA,FAIRBANKS INTL           
+0,CAN,IFAI,         ,          ,PAFA,FAIRBANKS INTL           
+0,CAN,IHOM,         ,          ,PAHO,HOMER                    
+0,CAN,IJDL,         ,          ,PAJN,JUNEAU INTL              
+0,CAN,IAKN,         ,          ,PAKN,KING SALMON              
+0,CAN,IECH,         ,          ,PAKT,KETCHIKAN INTL           
+0,CAN,IRGN,         ,          ,PAKU,UGNU-KUPARUK             
+0,CAN,IRHF,         ,          ,PAKU,UGNU-KUPARUK             
+0,CAN,IMCG,         ,          ,PAMC,MC GRATH                 
+0,CAN,IANC,         ,          ,PANC,TED STEVENS ANCHORAGE IN 
+0,CAN,IBSC,         ,          ,PANC,TED STEVENS ANCHORAGE IN 
+0,CAN,ITGN,         ,          ,PANC,TED STEVENS ANCHORAGE IN 
+0,CAN,IANI,         ,          ,PANI,ANIAK                    
+0,CAN,IOME,         ,          ,PAOM,NOME                     
+0,CAN,IOTZ,         ,          ,PAOT,RALPH WIEN MEML          
+0,CAN,IPSG,         ,          ,PAPG,PETERSBURG JAMES A JOHNS 
+0,CAN,ISCC,         ,          ,PASC,DEADHORSE                
+0,CAN,ISIT,         ,          ,PASI,SITKA ROCKY GUTIERREZ    
+0,CAN,ISMA,         ,          ,PASM,ST MARY'S                
+0,CAN,IUNK,         ,          ,PAUN,UNALAKLEET               
+0,CAN,IVDZ,         ,          ,PAVD,VALDEZ PIONEER FLD       
+0,CAN,IRGL,         ,          ,PAWG,WRANGELL                 
+0,LAM,ANU ,N17073317,W061480060,    ,V. C. BIRD               
+0,LAM,BGI ,N13043017,W059290179,    ,ADAMS                    
+0,LAM,BQN ,N18295281,W067063006,    ,BORINQUEN                
+0,LAM,CDO ,N18260297,W069400243,    ,PUNTA CAUCEDO            
+0,LAM,COY ,N17440400,W064420260,    ,ST CROIX                 
+0,LAM,DEL ,N28125096,W105265484,    ,DELICIAS                 
+0,LAM,FOF ,N14352670,W061012210,    ,MARTINIQUE               
+0,LAM,GTK ,N21262637,W071080372,    ,GRAND TURK               
+0,LAM,MAM ,N25461502,W097312606,    ,MATAMOROS                
+0,LAM,MAZ ,N18152323,W067090372,    ,MAYAGUEZ                 
+0,LAM,NRR ,         ,          ,    ,ROOSEVELT ROADS          
+0,LAM,OBN ,N18261770,W072162803,    ,OBLEON                   
+0,LAM,PJM ,N18021622,W063070578,    ,SAINT MAARTEN            
+0,LAM,PNA ,N18340213,W068225993,    ,PUNTA CANA               
+0,LAM,PPR ,N16155470,W061322450,    ,POINTE A PITRE           
+0,LAM,PTA ,N19453342,W070341350,    ,PUERTO PLATA             
+0,LAM,PVN ,N21462007,W072155767,    ,PROVIDENCIALES           
+0,LAM,REX ,N26003827,W098135473,    ,REYNOSA                  
+0,LAM,SJU ,N18264661,W065592223,    ,SAN JUAN                 
+0,LAM,STT ,N18212094,W065012840,    ,ST THOMAS                
+0,LAM,TIJ ,N32322559,W116570972,    ,TIJUANA                  
+0,LAM,ITMN,         ,          ,TIST,CYRIL E KING             
+0,LAM,ICLA,         ,          ,TJSJ,LUIS MUNOZ MARIN INTL    
+0,PAC,AWK ,N19171169,E166373840,    ,WAKE ISLAND              
+0,PAC,CKH ,N21155440,W157421073,    ,KOKO HEAD                
+0,PAC,HNL ,N21182996,W157554948,    ,HONOLULU                 
+0,PAC,ITO ,N19431686,W155003944,    ,HILO                     
+0,PAC,KOA ,N19430206,W156024171,    ,KONA                     
+0,PAC,LIH ,N21575498,W159201716,    ,LIHUE                    
+0,PAC,LNY ,N20455220,W156580800,    ,LANAI                    
+0,PAC,MAJ ,         ,          ,    ,MAJURO                   
+0,PAC,MKK ,N21081720,W157100270,    ,MOLOKAI                  
+0,PAC,MUE ,N19595300,W155401150,    ,KAMUELA                  
+0,PAC,NBS ,         ,          ,    ,BARKING SANDS PMRF       
+0,PAC,NGF ,         ,          ,    ,KANEOHE BAY              
+0,PAC,OGG ,N20542330,W156251543,    ,MAUI                     
+0,PAC,PNI ,         ,          ,    ,POHNPEI                  
+0,PAC,ROR ,         ,          ,    ,KOROR                    
+0,PAC,SOK ,N21540141,W159314394,    ,SOUTH KAUAI              
+0,PAC,TKK ,         ,          ,    ,TRUK                     
+0,PAC,UAM ,         ,          ,    ,ANDERSEN                 
+0,PAC,UKS ,         ,          ,    ,KOSRAE                   
+0,PAC,UNZ ,N13271638,E144435996,    ,NIMITZ                   
+0,PAC,UPP ,N20120195,W155503576,    ,UPOLU POINT              
+0,PAC,YP  ,         ,          ,    ,YAP                      
+0,PAC,IGSN,         ,          ,PGSN,FRANCISCO C ADA/SAIPAN I 
+0,PAC,IAWD,         ,          ,PGUM,GUAM INTL                
+0,PAC,IGUM,         ,          ,PGUM,GUAM INTL                
+0,PAC,IKOA,         ,          ,PHKO,ELLISON ONIZUKA KONA INT 
+0,PAC,ILIH,         ,          ,PHLI,LIHUE                    
+0,PAC,IEPC,         ,          ,PHNL,DANIEL K INOUYE INTL     
+0,PAC,IHNL,         ,          ,PHNL,DANIEL K INOUYE INTL     
+0,PAC,IIUM,         ,          ,PHNL,DANIEL K INOUYE INTL     
+0,PAC,ILNY,         ,          ,PHNY,LANAI                    
+0,PAC,IOGG,         ,          ,PHOG,KAHULUI                  
+0,PAC,IITO,         ,          ,PHTO,HILO INTL                
+0,SPA,TUT ,S14195733,W170422980,    ,PAGO PAGO                
+0,SPA,ITUT,         ,          ,NSTU,PAGO PAGO INTL           
+0,USA,ABI ,N32285279,W099514843,    ,ABILENE                  
+0,USA,ABQ ,N35023766,W106485872,    ,ALBUQUERQUE              
+0,USA,ABR ,N45250248,W098220739,    ,ABERDEEN                 
+0,USA,ACH ,N35064214,W105022374,    ,ANTON CHICO              
+0,USA,ACK ,N41165479,W070013616,    ,NANTUCKET                
+0,USA,ACO ,N41062845,W081120547,    ,AKRON                    
+0,USA,ACT ,N31394403,W097160845,    ,WACO                     
+0,USA,ACV ,N40585319,W124062994,    ,ARCATA                   
+0,USA,ACY ,N39272115,W074343473,    ,ATLANTIC CITY            
+0,USA,ADM ,N34124171,W097100562,    ,ARDMORE                  
+0,USA,ADW ,N38482599,W076515852,    ,ANDREWS                  
+0,USA,AEL ,N43405425,W093221472,    ,ALBERT LEA               
+0,USA,AEX ,N31152423,W092300350,    ,ALEXANDRIA               
+0,USA,AGC ,N40164312,W080022708,    ,ALLEGHENY                
+0,USA,AGJ ,N31110782,W098083069,    ,GOOCH SPRINGS            
+0,USA,AHC ,N40160431,W120090708,    ,AMEDEE                   
+0,USA,AHN ,N33565134,W083192913,    ,ATHENS                   
+0,USA,AIA ,N42032027,W102481600,    ,ALLIANCE                 
+0,USA,AIR ,N40010129,W080490202,    ,BELLAIRE                 
+0,USA,AKO ,N40092000,W103104697,    ,AKRON                    
+0,USA,ALB ,N42445020,W073481147,    ,ALBANY                   
+0,USA,ALD ,N33004498,W081173204,    ,ALLENDALE                
+0,USA,ALI ,N27442328,W098011683,    ,ALICE                    
+0,USA,ALO ,N42332339,W092235613,    ,WATERLOO                 
+0,USA,ALS ,N37205697,W105485592,    ,ALAMOSA                  
+0,USA,ALW ,N46051312,W118173313,    ,WALLA WALLA              
+0,USA,AMG ,N31321160,W082302912,    ,ALMA                     
+0,USA,AML ,N38560454,W077280013,    ,ARMEL                    
+0,USA,ANW ,N42340881,W099592278,    ,AINSWORTH                
+0,USA,ANX ,N39054353,W094074381,    ,NAPOLEON                 
+0,USA,ANY ,         ,          ,    ,ANTHONY                  
+0,USA,APE ,N40090383,W082351789,    ,APPLETON                 
+0,USA,APN ,N45045800,W083332521,    ,ALPENA                   
+0,USA,ARD ,N40151203,W074542741,    ,YARDLEY                  
+0,USA,ARG ,N36063607,W090571330,    ,WALNUT RIDGE             
+0,USA,ARH ,         ,          ,    ,FORT HUACHUCA            
+0,USA,ART ,N43570767,W076035266,    ,WATERTOWN                
+0,USA,ASP ,         ,          ,    ,AU SABLE                 
+0,USA,AST ,N46094211,W123524936,    ,ASTORIA                  
+0,USA,ATL ,N33374468,W084260623,    ,ATLANTA                  
+0,USA,ATR ,N38483532,W075124076,    ,WATERLOO                 
+0,USA,ATY ,N44584687,W097083020,    ,WATERTOWN                
+0,USA,AUG ,N44191207,W069474763,    ,AUGUSTA                  
+0,USA,AUW ,N44504840,W089351168,    ,WAUSAU                   
+0,USA,AVE ,N35384911,W119584298,    ,AVENAL                   
+0,USA,AXC ,N39441508,W088512315,    ,ADDERS                   
+0,USA,AXN ,N45573020,W095135749,    ,ALEXANDRIA               
+0,USA,AYS ,N31160993,W082332320,    ,WAYCROSS                 
+0,USA,AZO ,N42141315,W085331135,    ,KALAMAZOO                
+0,USA,AZQ ,         ,          ,    ,HAZARD                   
+0,USA,BAB ,         ,          ,    ,BEALE                    
+0,USA,BAD ,         ,          ,    ,BARKSDALE                
+0,USA,BAE ,N43070067,W088170364,    ,BADGER                   
+0,USA,BAF ,N42094305,W072425832,    ,BARNES                   
+0,USA,BAL ,N39101583,W076394052,    ,BALTIMORE                
+0,USA,BAM ,N40340869,W116552012,    ,BATTLE MOUNTAIN          
+0,USA,BCE ,N37412108,W112181403,    ,BRYCE CANYON             
+0,USA,BDA ,N32215179,W064412246,    ,BERMUDA                  
+0,USA,BDE ,         ,          ,    ,BAUDETTE                 
+0,USA,BDF ,N41093503,W089351634,    ,BRADFORD                 
+0,USA,BDH ,N45070361,W095073742,    ,WILLMAR                  
+0,USA,BDR ,N41093854,W073072815,    ,BRIDGEPORT               
+0,USA,BFD ,         ,          ,    ,BRADFORD                 
+0,USA,BFF ,N41533899,W103285531,    ,SCOTTSBLUFF              
+0,USA,BFM ,N30364580,W088031978,    ,BROOKLEY                 
+0,USA,BFV ,N35141300,W099122220,    ,BURNS FLAT               
+0,USA,BGD ,N35482546,W101225575,    ,BORGER                   
+0,USA,BGR ,N44503046,W068522628,    ,BANGOR                   
+0,USA,BGS ,N32230812,W101290126,    ,BIG SPRING               
+0,USA,BIB ,N38551324,W088285450,    ,BIBLE GROVE              
+0,USA,BIE ,N40180514,W096451672,    ,BEATRICE                 
+0,USA,BIH ,N37223702,W118215950,    ,BISHOP                   
+0,USA,BIL ,N45483081,W108372873,    ,BILLINGS                 
+0,USA,BIS ,N46454234,W100395547,    ,BISMARCK                 
+0,USA,BIX ,         ,          ,    ,KEESLER                  
+0,USA,BJA ,         ,          ,    ,BURLINGTON               
+0,USA,BJB ,N43251913,W088073068,    ,WEST BEND                
+0,USA,BJC ,N39544695,W105082035,    ,JEFFCO                   
+0,USA,BKE ,N44502616,W117482834,    ,BAKER CITY               
+0,USA,BKF ,         ,          ,    ,BUCKLEY                  
+0,USA,BKW ,N37464908,W081072444,    ,BECKLEY                  
+0,USA,BLD ,N35594485,W114514888,    ,BOULDER CITY             
+0,USA,BLF ,N37182319,W081113937,    ,BLUEFIELD                
+0,USA,BLH ,N33354583,W114454058,    ,BLYTHE                   
+0,USA,BMI ,N40285090,W088555256,    ,BLOOMINGTON              
+0,USA,BML ,         ,          ,    ,BERLIN                   
+0,USA,BNA ,N36081306,W086410518,    ,NASHVILLE                
+0,USA,BOI ,N43331012,W116113165,    ,BOISE                    
+0,USA,BOS ,N42212682,W070592237,    ,BOSTON                   
+0,USA,BOY ,N43274735,W108175896,    ,BOYSEN RESERVOIR         
+0,USA,BPI ,N42344601,W110063317,    ,BIG PINEY                
+0,USA,BPT ,N29564580,W094005840,    ,BEAUMONT                 
+0,USA,BQM ,         ,          ,    ,BOWMAN                   
+0,USA,BQS ,N39375000,W093523100,    ,BRAYMER                  
+0,USA,BQU ,N40453484,W115454096,    ,BULLION                  
+0,USA,BQZ ,N40274955,W106522029,    ,ROBERT                   
+0,USA,BRG ,         ,          ,    ,BELEN                    
+0,USA,BRK ,N38564024,W104380048,    ,BLACK FOREST             
+0,USA,BRL ,N40432444,W090553320,    ,BURLINGTON               
+0,USA,BRO ,N25552666,W097223097,    ,BROWNSVILLE              
+0,USA,BRV ,N38201053,W077211032,    ,BROOKE                   
+0,USA,BSR ,N36105266,W121383160,    ,BIG SUR                  
+0,USA,BSV ,N40442654,W081255562,    ,BRIGGS                   
+0,USA,BTG ,N45445212,W122352953,    ,BATTLE GROUND            
+0,USA,BTV ,N44234958,W073105749,    ,BURLINGTON               
+0,USA,BTY ,N36480215,W116445151,    ,BEATTY                   
+0,USA,BUA ,         ,          ,    ,BUFFALO                  
+0,USA,BUD ,N40365975,W083034978,    ,BUCKEYE                  
+0,USA,BUF ,N42554439,W078384683,    ,BUFFALO                  
+0,USA,BUM ,N38161949,W094291774,    ,BUTLER                   
+0,USA,BUU ,         ,          ,    ,BURBUN                   
+0,USA,BVL ,N40433395,W113452670,    ,BONNEVILLE               
+0,USA,BVO ,N36500361,W096010635,    ,BARTLESVILLE             
+0,USA,BVT ,N40332222,W087040975,    ,BOILER                   
+0,USA,BWD ,N31533330,W098572686,    ,BROWNWOOD                
+0,USA,BWG ,         ,          ,    ,BOWLING GREEN            
+0,USA,BWS ,         ,          ,    ,BOLES                    
+0,USA,BWZ ,N40475436,W074491860,    ,BROADWAY                 
+0,USA,BXK ,N33271244,W112492853,    ,BUCKEYE                  
+0,USA,BYI ,N42344886,W113515709,    ,BURLEY                   
+0,USA,BYP ,N33321495,W096140274,    ,BONHAM                   
+0,USA,BZA ,N32460519,W114361061,    ,BARD                     
+0,USA,BZM ,N35520787,W081142590,    ,BARRETTS MOUNTAIN        
+0,USA,BZN ,N45470204,W111091964,    ,BOZEMAN                  
+0,USA,CAE ,N33512610,W081031405,    ,COLUMBIA                 
+0,USA,CAM ,N42593944,W073203847,    ,CAMBRIDGE                
+0,USA,CBM ,N33382952,W088261886,    ,CALEDONIA                
+0,USA,CBU ,         ,          ,    ,COLUMBIA                 
+0,USA,CCC ,N40554663,W072475589,    ,CALVERTON                
+0,USA,CCR ,N38024171,W122024275,    ,CONCORD                  
+0,USA,CCT ,         ,          ,    ,CENTRAL CITY             
+0,USA,CCV ,N37205114,W075595155,    ,CAPE CHARLES             
+0,USA,CDS ,N34220863,W100172050,    ,CHILDRESS                
+0,USA,CEC ,N41464648,W124142705,    ,CRESCENT CITY            
+0,USA,CEF ,         ,          ,    ,WESTOVER                 
+0,USA,CEW ,N30493423,W086404492,    ,CRESTVIEW                
+0,USA,CEZ ,N37232345,W108334231,    ,CORTEZ                   
+0,USA,CFB ,N42092697,W076081130,    ,BINGHAMTON               
+0,USA,CGG ,N44405311,W084434295,    ,GRAYLING                 
+0,USA,CGI ,         ,          ,    ,CAPE GIRARDEAU           
+0,USA,CGT ,N41303602,W087341757,    ,CHICAGO HEIGHTS          
+0,USA,CHE ,N40311229,W107181764,    ,HAYDEN                   
+0,USA,CHS ,N32533955,W080021613,    ,CHARLESTON               
+0,USA,CID ,N41531516,W091470869,    ,CEDAR RAPIDS             
+0,USA,CIM ,N36292903,W104521920,    ,CIMARRON                 
+0,USA,CIP ,         ,          ,    ,CLARION                  
+0,USA,CKB ,N39151158,W080160430,    ,CLARKSBURG               
+0,USA,CKV ,N36371915,W087244555,    ,CLARKSVILLE              
+0,USA,CKW ,N41452055,W107345514,    ,CHEROKEE                 
+0,USA,CLL ,N30361801,W096251445,    ,COLLEGE STATION          
+0,USA,CLT ,N35112504,W080570631,    ,CHARLOTTE                
+0,USA,CMA ,N34124508,W119053968,    ,CAMARILLO                
+0,USA,CME ,N33201492,W104371648,    ,CHISUM                   
+0,USA,CMI ,N40020431,W088163387,    ,CHAMPAIGN                
+0,USA,CMK ,N41164832,W073345278,    ,CARMEL                   
+0,USA,CMX ,N47101294,W088290742,    ,HOUGHTON                 
+0,USA,CNG ,N37003099,W088501289,    ,CUNNINGHAM               
+0,USA,CNM ,N32152381,W104133374,    ,CARLSBAD                 
+0,USA,CNT ,         ,          ,    ,CURRANT                  
+0,USA,CNU ,N37373417,W095353649,    ,CHANUTE                  
+0,USA,CNX ,N34220126,W105404082,    ,CORONA                   
+0,USA,COD ,N44371363,W108575370,    ,CODY                     
+0,USA,COE ,N47462531,W116491412,    ,COEUR D'ALENE            
+0,USA,COF ,         ,          ,    ,PATRICK                  
+0,USA,COL ,N40184187,W074093502,    ,COLTS NECK               
+0,USA,CON ,N43131123,W071343163,    ,CONCORD                  
+0,USA,COT ,N28274326,W099070676,    ,COTULLA                  
+0,USA,COU ,N38483896,W092130579,    ,COLUMBIA                 
+0,USA,CPN ,N46015520,W112445110,    ,COPPERTOWN               
+0,USA,CQY ,N32110860,W096130517,    ,CEDAR CREEK              
+0,USA,CRE ,N33484983,W078432828,    ,GRAND STRAND             
+0,USA,CRG ,N30201997,W081303574,    ,CRAIG                    
+0,USA,CRI ,N40364490,W073534000,    ,CANARSIE                 
+0,USA,CRL ,N42025290,W083272726,    ,CARLETON                 
+0,USA,CRP ,N27541356,W097264157,    ,CORPUS CHRISTI           
+0,USA,CSG ,N32365491,W085010347,    ,COLUMBUS                 
+0,USA,CSI ,N29552048,W099125215,    ,CENTER POINT             
+0,USA,CSN ,N38382833,W077515580,    ,CASANOVA                 
+0,USA,CSX ,         ,          ,    ,CARDINAL                 
+0,USA,CTB ,N48335382,W112203572,    ,CUT BANK                 
+0,USA,CTF ,N34390179,W080162970,    ,CHESTERFIELD             
+0,USA,CTR ,N42172875,W072565782,    ,CHESTER                  
+0,USA,CTW ,         ,          ,    ,NEWCOMERSTOWN            
+0,USA,CTY ,N29355640,W083025565,    ,CROSS CITY               
+0,USA,CUS ,N31490876,W107342818,    ,COLUMBUS                 
+0,USA,CUZ ,N41290231,W099412057,    ,CUSTER COUNTY            
+0,USA,CVA ,N41423077,W090285993,    ,DAVENPORT                
+0,USA,CVE ,N32532512,W096541428,    ,COWBOY                   
+0,USA,CVG ,N39005753,W084421205,    ,CINCINNATI               
+0,USA,CVI ,N36222249,W076521756,    ,COFIELD                  
+0,USA,CVO ,N44295844,W123173718,    ,CORVALLIS                
+0,USA,CVS ,         ,          ,    ,CANNON                   
+0,USA,CVV ,N48144090,W122432790,    ,PENN COVE                
+0,USA,CWK ,N30224278,W097314745,    ,CENTEX                   
+0,USA,CXR ,N41310094,W081094747,    ,CHARDON                  
+0,USA,CYN ,N39490242,W074255385,    ,COYLE                    
+0,USA,CYS ,N41123948,W104462249,    ,CHEYENNE                 
+0,USA,CYY ,N26091234,W081464117,    ,CYPRESS                  
+0,USA,CZI ,N43595902,W106260863,    ,CRAZY WOMAN              
+0,USA,CZQ ,         ,          ,    ,CLOVIS                   
+0,USA,DAG ,N34574485,W116344140,    ,DAGGETT                  
+0,USA,DAN ,N36340797,W079201198,    ,DANVILLE                 
+0,USA,DAS ,N30112296,W094384194,    ,DAISETTA                 
+0,USA,DBL ,N39262164,W106534085,    ,RED TABLE                
+0,USA,DBN ,N32334846,W082494816,    ,DUBLIN                   
+0,USA,DBQ ,N42240529,W090423268,    ,DUBUQUE                  
+0,USA,DBS ,N44051987,W112123364,    ,DUBOIS                   
+0,USA,DCA ,N38513403,W077021117,    ,WASHINGTON               
+0,USA,DCU ,         ,          ,    ,DECATUR                  
+0,USA,DDC ,N37510202,W100002029,    ,DODGE CITY               
+0,USA,DDD ,         ,          ,    ,PORT CITY                
+0,USA,DDY ,N43052708,W106163729,    ,MUDDY MOUNTAIN           
+0,USA,DEN ,N39484505,W104393866,    ,DENVER                   
+0,USA,DGD ,N37012449,W092523692,    ,DOGWOOD                  
+0,USA,DHK ,         ,          ,    ,RANDOLPH                 
+0,USA,DHP ,N25475987,W080205653,    ,DOLPHIN                  
+0,USA,DHT ,N36052924,W102324071,    ,DALHART                  
+0,USA,DIK ,N46513614,W102462460,    ,DICKINSON                
+0,USA,DJB ,N41212903,W082094309,    ,DRYER                    
+0,USA,DKK ,         ,          ,    ,DUNKIRK                  
+0,USA,DLF ,N29213921,W100461821,    ,LAUGHLIN                 
+0,USA,DLH ,N46480779,W092121033,    ,DULUTH                   
+0,USA,DLL ,N43330300,W089454904,    ,DELLS                    
+0,USA,DLN ,N45145487,W112324967,    ,DILLON                   
+0,USA,DMA ,         ,          ,    ,DAVIS MONTHAN            
+0,USA,DMN ,N32163199,W107361981,    ,DEMING                   
+0,USA,DNJ ,N44460161,W116122256,    ,DONNELLY                 
+0,USA,DNV ,N40173756,W087332614,    ,DANVILLE                 
+0,USA,DNW ,N43494180,W110200771,    ,DUNOIR                   
+0,USA,DNY ,N42104181,W074572499,    ,DELANCEY                 
+0,USA,DOB ,         ,          ,    ,DOBBINS                  
+0,USA,DOV ,         ,          ,    ,DOVER                    
+0,USA,DPA ,N41532534,W088210064,    ,DUPAGE                   
+0,USA,DPK ,N40473030,W073181317,    ,DEER PARK                
+0,USA,DPR ,N45044143,W101425426,    ,DUPREE                   
+0,USA,DQN ,N40005920,W084234883,    ,DAYTON                   
+0,USA,DQO ,N39404131,W075362551,    ,DUPONT                   
+0,USA,DRK ,N34420919,W112284923,    ,DRAKE                    
+0,USA,DRO ,N37091174,W107445865,    ,DURANGO                  
+0,USA,DSD ,N44150994,W121181279,    ,DESCHUTES                
+0,USA,DSM ,N41261545,W093385481,    ,DES MOINES               
+0,USA,DTA ,N39180814,W112302001,    ,DELTA                    
+0,USA,DTL ,N46493189,W095531436,    ,DETROIT LAKES            
+0,USA,DUC ,         ,          ,    ,DUNCAN                   
+0,USA,DUG ,N31282163,W109360739,    ,DOUGLAS                  
+0,USA,DVC ,N37483146,W108555259,    ,DOVE CREEK               
+0,USA,DVL ,N48065478,W098544503,    ,DEVILS LAKE              
+0,USA,DVV ,N39534088,W104372761,    ,MILE HIGH                
+0,USA,DWG ,         ,          ,    ,WARRINGTON               
+0,USA,DWN ,N45051487,W094271386,    ,DARWIN                   
+0,USA,DXO ,N42124729,W083215999,    ,DETROIT                  
+0,USA,DYR ,N36010678,W089190369,    ,DYERSBURG                
+0,USA,DYS ,         ,          ,    ,DYESS                    
+0,USA,EAR ,N40433217,W099001845,    ,KEARNEY                  
+0,USA,EAT ,N47235889,W120123898,    ,WENATCHEE                
+0,USA,EAU ,N44535161,W091284273,    ,EAU CLAIRE               
+0,USA,ECB ,         ,          ,    ,NEWCOMBE                 
+0,USA,ECG ,N36152726,W076103215,    ,ELIZABETH CITY           
+0,USA,ECK ,         ,          ,    ,PECK                     
+0,USA,ECS ,N43525206,W104182798,    ,NEWCASTLE                
+0,USA,EDN ,N31174695,W085540983,    ,ENTERPRISE               
+0,USA,EDW ,N34585651,W117435739,    ,EDWARDS                  
+0,USA,EED ,N34455762,W114282678,    ,NEEDLES                  
+0,USA,EEN ,         ,          ,    ,KEENE                    
+0,USA,EFD ,         ,          ,    ,ELLINGTON                
+0,USA,EHF ,N35290440,W119055026,    ,SHAFTER                  
+0,USA,EHK ,N37471439,W113040563,    ,ENOCH                    
+0,USA,EIC ,N32461691,W093483575,    ,BELCHER                  
+0,USA,EKN ,N38545197,W080055738,    ,ELKINS                   
+0,USA,EKR ,N40040279,W107552982,    ,MEEKER                   
+0,USA,ELA ,N29394493,W096190164,    ,EAGLE LAKE               
+0,USA,ELB ,N33403373,W117435193,    ,EL TORO                  
+0,USA,ELD ,N33152215,W092443821,    ,EL DORADO                
+0,USA,ELN ,N47012775,W120273029,    ,ELLENSBURG               
+0,USA,ELO ,         ,          ,    ,ELY                      
+0,USA,ELP ,N31485728,W106165478,    ,EL PASO                  
+0,USA,ELW ,N34250907,W082470486,    ,ELECTRIC CITY            
+0,USA,ELX ,N42083989,W086072174,    ,KEELER                   
+0,USA,ELY ,N39175325,W114505390,    ,ELY                      
+0,USA,ELZ ,         ,          ,    ,WELLSVILLE               
+0,USA,EMG ,N32240146,W093354253,    ,ELM GROVE                
+0,USA,EMI ,N39294203,W076584286,    ,WESTMINSTER              
+0,USA,EMP ,N38172812,W096081722,    ,EMPORIA                  
+0,USA,END ,N36204188,W097550608,    ,VANCE                    
+0,USA,ENE ,N43253242,W070364869,    ,KENNEBUNK                
+0,USA,ENI ,N39031158,W123162758,    ,MENDOCINO                
+0,USA,ENL ,N38251200,W089093239,    ,CENTRALIA                
+0,USA,ENO ,N39135393,W075305749,    ,SMYRNA                   
+0,USA,ENW ,         ,          ,    ,KENOSHA                  
+0,USA,EON ,N41161068,W087472779,    ,PEOTONE                  
+0,USA,EOS ,N36503281,W094260852,    ,NEOSHO                   
+0,USA,EPH ,N47224051,W119252641,    ,EPHRATA                  
+0,USA,ERI ,N42010263,W080173371,    ,ERIE                     
+0,USA,ESC ,N45432149,W087052255,    ,ESCANABA                 
+0,USA,ESL ,N39133177,W078592220,    ,KESSEL                   
+0,USA,ETG ,N41125382,W078083392,    ,KEATING                  
+0,USA,ETL ,N38022491,W108153087,    ,CONES                    
+0,USA,ETX ,N40345174,W075410251,    ,EAST TEXAS               
+0,USA,EUF ,N31570090,W085074973,    ,EUFAULA                  
+0,USA,EUG ,N44071523,W123132219,    ,EUGENE                   
+0,USA,EVW ,N41162096,W111024836,    ,EVANSTON                 
+0,USA,EWA ,         ,          ,    ,KEWANEE                  
+0,USA,EWC ,N40492976,W080124156,    ,ELLWOOD CITY             
+0,USA,EWM ,N31570643,W106162085,    ,NEWMAN                   
+0,USA,EWN ,N35042331,W077024224,    ,NEW BERN                 
+0,USA,EWO ,N37375452,W085403316,    ,NEW HOPE                 
+0,USA,EYW ,N24350916,W081480172,    ,KEY WEST                 
+0,USA,FAH ,         ,          ,    ,FALLS                    
+0,USA,FAK ,N37314263,W077494159,    ,FLAT ROCK                
+0,USA,FAM ,N37402446,W090140262,    ,FARMINGTON               
+0,USA,FAR ,N46451201,W096510475,    ,FARGO                    
+0,USA,FAY ,N34590798,W078523023,    ,FAYETTEVILLE             
+0,USA,FBC ,N40571920,W083452169,    ,FLAG CITY                
+0,USA,FBR ,N41224238,W110252662,    ,FORT BRIDGER             
+0,USA,FCA ,N48125077,W114103321,    ,KALISPELL                
+0,USA,FCM ,N44493126,W093263368,    ,FLYING CLOUD             
+0,USA,FCS ,N38405052,W104452491,    ,BUTTS                    
+0,USA,FDK ,N39244405,W077223042,    ,FREDERICK                
+0,USA,FFM ,N46172167,W096092452,    ,FERGUS FALLS             
+0,USA,FFO ,         ,          ,    ,PATTERSON                
+0,USA,FFT ,N38105672,W084543104,    ,FRANKFORT                
+0,USA,FFU ,N40162962,W111562591,    ,FAIRFIELD                
+0,USA,FGT ,N44375140,W093105539,    ,FARMINGTON               
+0,USA,FHU ,N31352276,W110211779,    ,LIBBY                    
+0,USA,FIM ,N34212410,W118525265,    ,FILLMORE                 
+0,USA,FJC ,N40433607,W075271708,    ,ALLENTOWN                
+0,USA,FJS ,N41265881,W122482321,    ,FORT JONES               
+0,USA,FKL ,N41261859,W079512414,    ,FRANKLIN                 
+0,USA,FKN ,N36425124,W077004455,    ,FRANKLIN                 
+0,USA,FLG ,N35084991,W111402699,    ,FLAGSTAFF                
+0,USA,FLL ,N26042618,W080095919,    ,FORT LAUDERDALE          
+0,USA,FLM ,N38385799,W084183817,    ,FALMOUTH                 
+0,USA,FLO ,N34135869,W079392578,    ,FLORENCE                 
+0,USA,FLP ,         ,          ,    ,FLIPPIN                  
+0,USA,FLW ,N35053510,W119515608,    ,FELLOWS                  
+0,USA,FMG ,N39315260,W119392187,    ,MUSTANG                  
+0,USA,FNT ,N42580038,W083444908,    ,FLINT                    
+0,USA,FNX ,         ,          ,    ,FAIRMONT                 
+0,USA,FOD ,N42364005,W094174134,    ,FORT DODGE               
+0,USA,FOE ,         ,          ,    ,FORBES                   
+0,USA,FOK ,         ,          ,    ,SUFFOLK CO               
+0,USA,FOT ,N40401659,W124140433,    ,FORTUNA                  
+0,USA,FOW ,N44121596,W093221382,    ,HALFWAY                  
+0,USA,FQF ,N39412450,W104371550,    ,FALCON                   
+0,USA,FQM ,N41201881,W076462952,    ,WILLIAMSPORT             
+0,USA,FRA ,N37061592,W119354360,    ,FRIANT                   
+0,USA,FRI ,N38581259,W096514022,    ,FORT RILEY               
+0,USA,FRM ,         ,          ,    ,FAIRMONT                 
+0,USA,FSD ,N43385814,W096465202,    ,SIOUX FALLS              
+0,USA,FSM ,N35231830,W094161749,    ,FORT SMITH               
+0,USA,FST ,N30570759,W102583256,    ,FORT STOCKTON            
+0,USA,FTI ,N35392718,W105080815,    ,FORT UNION               
+0,USA,FTK ,N37542598,W085582123,    ,FORT KNOX                
+0,USA,FTZ ,N38413960,W090581657,    ,FORISTELL                
+0,USA,FUZ ,N32532202,W097104593,    ,RANGER                   
+0,USA,FWA ,N40584463,W085111701,    ,FORT WAYNE               
+0,USA,FXU ,N31064126,W093130903,    ,POLK                     
+0,USA,FZT ,N32042858,W095315085,    ,FRANKSTON                
+0,USA,GAD ,N33583505,W086050081,    ,GADSDEN                  
+0,USA,GBG ,         ,          ,    ,GALESBURG                
+0,USA,GBN ,N32572253,W112402738,    ,GILA BEND                
+0,USA,GCC ,N44205198,W105323655,    ,GILLETTE                 
+0,USA,GCK ,N37550841,W100433003,    ,GARDEN CITY              
+0,USA,GCN ,N35573723,W112084577,    ,GRAND CANYON             
+0,USA,GCO ,         ,          ,    ,CHICAGO                  
+0,USA,GCV ,N31055266,W088291006,    ,GREENE COUNTY            
+0,USA,GDM ,N42324532,W072032948,    ,GARDNER                  
+0,USA,GDV ,         ,          ,    ,GLENDIVE                 
+0,USA,GEE ,N42500383,W077435790,    ,GENESEO                  
+0,USA,GEF ,N30330483,W083465928,    ,GREENVILLE               
+0,USA,GEG ,N47335381,W117373679,    ,SPOKANE                  
+0,USA,GEP ,N45084447,W093222345,    ,GOPHER                   
+0,USA,GFK ,N47571740,W097110733,    ,GRAND FORKS              
+0,USA,GFS ,N35075212,W115103519,    ,GOFFS                    
+0,USA,GGG ,N32250392,W094451150,    ,GREGG COUNTY             
+0,USA,GGT ,         ,          ,    ,GEORGETOWN               
+0,USA,GGW ,N48125510,W106373151,    ,GLASGOW                  
+0,USA,GHM ,         ,          ,    ,GRAHAM                   
+0,USA,GIJ ,N41460700,W086190643,    ,GIPPER                   
+0,USA,GLD ,N39231632,W101413227,    ,GOODLAND                 
+0,USA,GLH ,N33312471,W090585858,    ,GREENVILLE               
+0,USA,GLJ ,N34570855,W120311733,    ,GUADALUPE                
+0,USA,GLL ,N40301392,W104331085,    ,GILL                     
+0,USA,GLR ,N45004495,W084421540,    ,GAYLORD                  
+0,USA,GMN ,N34481450,W118514090,    ,GORMAN                   
+0,USA,GNL ,         ,          ,    ,GROESBECK                
+0,USA,GNP ,         ,          ,    ,GLENPOOL                 
+0,USA,GNV ,N29413161,W082162270,    ,GATORS                   
+0,USA,GOG ,         ,          ,    ,GOODSPRINGS              
+0,USA,GON ,N41194945,W072030715,    ,GROTON                   
+0,USA,GPT ,N30242459,W089043641,    ,GULFPORT                 
+0,USA,GPZ ,N47094840,W093292016,    ,GRAND RAPIDS             
+0,USA,GQE ,N35204931,W090284137,    ,GILMORE                  
+0,USA,GQO ,N34574059,W085091213,    ,CHOO CHOO                
+0,USA,GRB ,N44331858,W088114149,    ,GREEN BAY                
+0,USA,GRD ,N34150564,W082091494,    ,GREENWOOD                
+0,USA,GRI ,N40590250,W098185320,    ,GRAND ISLAND             
+0,USA,GRK ,N31015839,W097484965,    ,GRAY                     
+0,USA,GRV ,         ,          ,    ,GRANTSVILLE              
+0,USA,GSB ,         ,          ,    ,SEYMOUR JOHNSON          
+0,USA,GSH ,N41313056,W086014063,    ,GOSHEN                   
+0,USA,GSO ,N36024450,W079583494,    ,GREENSBORO               
+0,USA,GTF ,N47265993,W111244379,    ,GREAT FALLS              
+0,USA,GTH ,         ,          ,    ,GUTHRIE                  
+0,USA,GUP ,N35283360,W108522140,    ,GALLUP                   
+0,USA,GUS ,N40384166,W086090617,    ,GRISSOM                  
+0,USA,GVE ,N38004896,W078091090,    ,GORDONSVILLE             
+0,USA,GVO ,N34315275,W120052792,    ,GAVIOTA                  
+0,USA,GVR ,         ,          ,    ,HANOVER                  
+0,USA,GXU ,N40003411,W074354744,    ,MC GUIRE                 
+0,USA,GZG ,N36493038,W082044433,    ,GLADE SPRING             
+0,USA,HAB ,         ,          ,    ,HAMILTON                 
+0,USA,HAR ,N40180806,W077041041,    ,HARRISBURG               
+0,USA,HBR ,N34515960,W099034819,    ,HOBART                   
+0,USA,HBU ,N38270762,W107022297,    ,BLUE MESA                
+0,USA,HCH ,N35465165,W084584243,    ,HINCH MOUNTAIN           
+0,USA,HCM ,N37265518,W076424087,    ,HARCUM                   
+0,USA,HCT ,N40271462,W100552486,    ,HAYES CENTER             
+0,USA,HDF ,N33463479,W117110717,    ,HOMELAND                 
+0,USA,HEC ,N34474927,W116274652,    ,HECTOR                   
+0,USA,HEY ,N31222689,W085391001,    ,HANCHEY                  
+0,USA,HEZ ,N31370544,W091175872,    ,NATCHEZ                  
+0,USA,HFD ,N41382798,W072325071,    ,HARTFORD                 
+0,USA,HGO ,N38490300,W103371700,    ,HUGO                     
+0,USA,HGR ,N39415182,W077512059,    ,HAGERSTOWN               
+0,USA,HIA ,N45514244,W112101059,    ,WHITEHALL                
+0,USA,HIB ,N47180551,W092421456,    ,HIBBING                  
+0,USA,HIC ,N43342947,W085425818,    ,WHITE CLOUD              
+0,USA,HIF ,         ,          ,    ,HILL                     
+0,USA,HLC ,N39153149,W100133306,    ,HILL CITY                
+0,USA,HLE ,         ,          ,    ,HAILEY                   
+0,USA,HLG ,N40153565,W080340705,    ,WHEELING                 
+0,USA,HLI ,N34461288,W089294747,    ,HOLLY SPRINGS            
+0,USA,HLN ,N46362456,W111571251,    ,HELENA                   
+0,USA,HLV ,N39064875,W092074164,    ,HALLSVILLE               
+0,USA,HML ,         ,          ,    ,HUMBOLDT                 
+0,USA,HMN ,         ,          ,    ,HOLLOMAN                 
+0,USA,HMV ,N36261340,W082074656,    ,HOLSTON MOUNTAIN         
+0,USA,HNK ,N42034701,W075185862,    ,HANCOCK                  
+0,USA,HNN ,         ,          ,    ,HENDERSON                
+0,USA,HNW ,N38432901,W120445735,    ,HANGTOWN                 
+0,USA,HOB ,N32381766,W103160948,    ,HOBBS                    
+0,USA,HON ,         ,          ,    ,HURON                    
+0,USA,HOT ,N34284294,W093052620,    ,HOT SPRINGS              
+0,USA,HPW ,N37194393,W077065740,    ,HOPEWELL                 
+0,USA,HQM ,N46564935,W124085737,    ,HOQUIAM                  
+0,USA,HRK ,         ,          ,    ,HORLICK                  
+0,USA,HRL ,N26134521,W097390815,    ,HARLINGEN                
+0,USA,HRO ,N36190591,W093124778,    ,HARRISON                 
+0,USA,HRS ,N34563479,W083545643,    ,HARRIS                   
+0,USA,HRT ,         ,          ,    ,HURLBURT                 
+0,USA,HRV ,N29510070,W090001074,    ,HARVEY                   
+0,USA,HSI ,N40361633,W098254662,    ,HASTINGS                 
+0,USA,HST ,         ,          ,    ,HOMESTEAD                
+0,USA,HTO ,N40550839,W072190014,    ,HAMPTON                  
+0,USA,HUH ,N48564303,W122344532,    ,WHATCOM                  
+0,USA,HUL ,         ,          ,    ,HOULTON                  
+0,USA,HUO ,N41243487,W074352974,    ,HUGUENOT                 
+0,USA,HUP ,N31340733,W105223475,    ,HUDSPETH                 
+0,USA,HUT ,N37594891,W097560295,    ,HUTCHINSON               
+0,USA,HUW ,         ,          ,    ,HUTTON                   
+0,USA,HVE ,N38250051,W110415907,    ,HANKSVILLE               
+0,USA,HVN ,         ,          ,    ,NEW HAVEN                
+0,USA,HVQ ,N38205883,W081461169,    ,CHARLESTON               
+0,USA,HVR ,N48322566,W109461195,    ,HAVRE                    
+0,USA,HXW ,         ,          ,    ,SCREAMING EAGLE          
+0,USA,HYK ,N37575886,W084282106,    ,LEXINGTON                
+0,USA,HYP ,N37130996,W120240079,    ,EL NIDO                  
+0,USA,HYR ,         ,          ,    ,HAYWARD                  
+0,USA,HYS ,N38505156,W099163645,    ,HAYS                     
+0,USA,HZN ,N39305904,W118595167,    ,HAZEN                    
+0,USA,IAB ,         ,          ,    ,MC CONNELL               
+0,USA,IAG ,         ,          ,    ,NIAGARA FALLS            
+0,USA,IAH ,N29572490,W095204459,    ,HUMBLE                   
+0,USA,ICT ,N37444293,W097350179,    ,WICHITA                  
+0,USA,IDA ,N43310842,W112035010,    ,IDAHO FALLS              
+0,USA,IDJ ,N47302774,W094552391,    ,LAKE BEMIDJI             
+0,USA,IDQ ,         ,          ,    ,COTTONWOOD               
+0,USA,IDU ,N29572181,W096334390,    ,INDUSTRY                 
+0,USA,IFI ,N35481896,W098001410,    ,KINGFISHER               
+0,USA,IFM ,N31254316,W083291993,    ,TIFT MYERS               
+0,USA,IGB ,N33290775,W088304892,    ,BIGBEE                   
+0,USA,IGM ,N35153785,W113560269,    ,KINGMAN                  
+0,USA,IGN ,N41395562,W073492001,    ,KINGSTON                 
+0,USA,IHD ,N39582727,W079213012,    ,INDIAN HEAD              
+0,USA,IIP ,N42403397,W105133441,    ,HIPSHER                  
+0,USA,IIU ,N38061247,W085343877,    ,LOUISVILLE               
+0,USA,IJX ,         ,          ,    ,JACKSONVILLE             
+0,USA,IKK ,         ,          ,    ,KANKAKEE                 
+0,USA,ILA ,N39041623,W122013817,    ,WILLIAMS                 
+0,USA,ILC ,N38150069,W114233922,    ,WILSON CREEK             
+0,USA,ILM ,N34210593,W077522777,    ,WILMINGTON               
+0,USA,ILR ,N43353527,W118571818,    ,WILDHORSE                
+0,USA,IMB ,N44385421,W119424187,    ,KIMBERLY                 
+0,USA,IMT ,N45485774,W088064369,    ,IRON MOUNTAIN            
+0,USA,INA ,N40535740,W117484389,    ,WINNEMUCCA               
+0,USA,INK ,N31522915,W103143760,    ,WINK                     
+0,USA,INL ,N48335687,W093242044,    ,INTERNATIONAL FALLS      
+0,USA,INS ,         ,          ,    ,INDIAN SPRINGS           
+0,USA,INW ,N35034176,W110474207,    ,WINSLOW                  
+0,USA,IOW ,N41310826,W091364771,    ,IOWA CITY                
+0,USA,IPL ,N32445592,W115303090,    ,IMPERIAL                 
+0,USA,IRK ,N40080606,W092353017,    ,KIRKSVILLE               
+0,USA,IRQ ,N33422647,W082094343,    ,COLLIERS                 
+0,USA,IRW ,N35213095,W097363322,    ,WILL ROGERS              
+0,USA,ISN ,N48151230,W103450240,    ,WILLISTON                
+0,USA,ISO ,N35221541,W077332994,    ,KINSTON                  
+0,USA,ISQ ,         ,          ,    ,SCHOOLCRAFT COUNTY       
+0,USA,ITH ,         ,          ,    ,ITHACA                   
+0,USA,IWA ,N33181141,W111390517,    ,WILLIE                   
+0,USA,IWD ,N46315612,W090073306,    ,IRONWOOD                 
+0,USA,JAC ,N43371574,W110435407,    ,JACKSON                  
+0,USA,JAY ,N43343454,W092550715,    ,AUSTIN                   
+0,USA,JBR ,N35522970,W090351861,    ,JONESBORO                
+0,USA,JCT ,N30355288,W099490293,    ,JUNCTION                 
+0,USA,JEN ,         ,          ,    ,GLEN ROSE                
+0,USA,JFK ,N40375840,W073461700,    ,KENNEDY                  
+0,USA,JFN ,N41453642,W080445320,    ,JEFFERSON                
+0,USA,JHW ,N42111899,W079071671,    ,JAMESTOWN                
+0,USA,JLI ,N33082565,W116350937,    ,JULIAN                   
+0,USA,JMS ,N46555834,W098404357,    ,JAMESTOWN                
+0,USA,JNC ,N39033444,W108473327,    ,GRAND JUNCTION           
+0,USA,JOT ,N41324711,W088190628,    ,JOLIET                   
+0,USA,JPU ,N39262825,W081222914,    ,PARKERSBURG              
+0,USA,JST ,N40190021,W078500300,    ,JOHNSTOWN                
+0,USA,JVL ,N42332883,W089061893,    ,JANESVILLE               
+0,USA,JWJ ,N42064066,W092543149,    ,ELMWOOD                  
+0,USA,JXN ,         ,          ,    ,JACKSON                  
+0,USA,KSY ,         ,          ,    ,KELLY                    
+0,USA,LAA ,N38114953,W102411512,    ,LAMAR                    
+0,USA,LAL ,N27591031,W082005006,    ,LAKELAND                 
+0,USA,LAR ,N41201615,W105431536,    ,LARAMIE                  
+0,USA,LAS ,N36044693,W115093527,    ,LAS VEGAS                
+0,USA,LAW ,N34294626,W098244714,    ,LAWTON                   
+0,USA,LAX ,N33555934,W118255525,    ,LOS ANGELES              
+0,USA,LBB ,N33421782,W101545044,    ,LUBBOCK                  
+0,USA,LBF ,N41025534,W100444955,    ,NORTH PLATTE             
+0,USA,LBL ,N37023982,W100581631,    ,LIBERAL                  
+0,USA,LBV ,N26494147,W081232918,    ,LA BELLE                 
+0,USA,LBY ,N31250726,W089201537,    ,EATON                    
+0,USA,LCH ,N30082945,W093062005,    ,LAKE CHARLES             
+0,USA,LCU ,N41214663,W113502623,    ,LUCIN                    
+0,USA,LDK ,N33153190,W087321280,    ,CRIMSON                  
+0,USA,LDN ,N38511583,W078122006,    ,LINDEN                   
+0,USA,LEB ,         ,          ,    ,LEBANON                  
+0,USA,LEM ,N45551116,W102061308,    ,LEMMON                   
+0,USA,LEV ,N29103083,W090061447,    ,LEEVILLE                 
+0,USA,LFD ,N42034496,W084455448,    ,LITCHFIELD               
+0,USA,LFI ,         ,          ,    ,LANGLEY                  
+0,USA,LFK ,N31094479,W094430060,    ,LUFKIN                   
+0,USA,LFT ,N30113773,W091593326,    ,LAFAYETTE                
+0,USA,LFV ,N42010188,W070021404,    ,MARCONI                  
+0,USA,LGA ,N40470138,W073520696,    ,LA GUARDIA               
+0,USA,LGC ,N33025683,W085122240,    ,LAGRANGE                 
+0,USA,LHO ,N41473437,W112003520,    ,BRIGHAM CITY             
+0,USA,LHS ,N34405870,W118343698,    ,LAKE HUGHES              
+0,USA,LIA ,N42585762,W115462731,    ,LIBERATOR                
+0,USA,LIB ,N35484184,W079364533,    ,LIBERTY                  
+0,USA,LIN ,N38042849,W121001389,    ,LINDEN                   
+0,USA,LIT ,N34403962,W092104990,    ,LITTLE ROCK              
+0,USA,LJT ,         ,          ,    ,TIMMERMAN                
+0,USA,LKI ,         ,          ,    ,LAKESIDE                 
+0,USA,LKT ,N45011672,W114050325,    ,SALMON                   
+0,USA,LKV ,N42293424,W120302558,    ,LAKEVIEW                 
+0,USA,LLA ,N29394761,W092222511,    ,WHITE LAKE               
+0,USA,LLC ,N40073095,W118343934,    ,LOVELOCK                 
+0,USA,LLO ,N30474683,W098471460,    ,LLANO                    
+0,USA,LMN ,N40354835,W093580333,    ,LAMONI                   
+0,USA,LMT ,N42091131,W121433910,    ,KLAMATH FALLS            
+0,USA,LMX ,         ,          ,    ,ALAMO                    
+0,USA,LNK ,N40552566,W096443124,    ,LINCOLN                  
+0,USA,LNR ,         ,          ,    ,LONE ROCK                
+0,USA,LOA ,N31072646,W095580464,    ,LEONA                    
+0,USA,LOZ ,N37015934,W084063627,    ,LONDON                   
+0,USA,LRD ,N27284345,W099250364,    ,LAREDO                   
+0,USA,LRF ,         ,          ,    ,JACKSONVILLE             
+0,USA,LRP ,N40071191,W076172866,    ,LANCASTER                
+0,USA,LSE ,         ,          ,    ,LA CROSSE                
+0,USA,LSF ,N32195653,W084593575,    ,LAWSON                   
+0,USA,LSU ,N30290648,W091173864,    ,FIGHTING TIGER           
+0,USA,LSV ,         ,          ,    ,NELLIS                   
+0,USA,LTJ ,N45424890,W121060300,    ,KLICKITAT                
+0,USA,LTS ,N34394654,W099161619,    ,ALTUS                    
+0,USA,LUF ,         ,          ,    ,LUKE                     
+0,USA,LVL ,N36490493,W077541069,    ,LAWRENCEVILLE            
+0,USA,LVM ,N45420893,W110263283,    ,LIVINGSTON               
+0,USA,LVT ,N36350423,W085095984,    ,LIVINGSTON               
+0,USA,LVZ ,N41162208,W075412208,    ,WILKES-BARRE             
+0,USA,LWB ,         ,          ,    ,GREENBRIER               
+0,USA,LWL ,N41084129,W114583904,    ,WELLS                    
+0,USA,LWM ,         ,          ,    ,LAWRENCE                 
+0,USA,LWT ,N47031069,W109362221,    ,LEWISTOWN                
+0,USA,LWV ,         ,          ,    ,LAWRENCEVILLE            
+0,USA,LYH ,N37151648,W079141097,    ,LYNCHBURG                
+0,USA,MAD ,N41184990,W072413193,    ,MADISON                  
+0,USA,MAF ,N32003364,W102112540,    ,MIDLAND                  
+0,USA,MAI ,N30471031,W085072808,    ,MARIANNA                 
+0,USA,MAP ,         ,          ,    ,MAPLES                   
+0,USA,MAW ,N36331841,W089544112,    ,MALDEN                   
+0,USA,MBL ,         ,          ,    ,MANISTEE                 
+0,USA,MBS ,N43315393,W084043829,    ,SAGINAW                  
+0,USA,MBW ,N41504388,W106001542,    ,MEDICINE BOW             
+0,USA,MCB ,N31181603,W090152953,    ,MC COMB                  
+0,USA,MCC ,N38400262,W121241498,    ,MC CLELLAN               
+0,USA,MCF ,         ,          ,    ,MACDILL                  
+0,USA,MCI ,N39170702,W094441342,    ,KANSAS CITY              
+0,USA,MCK ,N40121367,W100353921,    ,MC COOK                  
+0,USA,MCM ,         ,          ,    ,MACON                    
+0,USA,MCN ,N32412827,W083384986,    ,MACON                    
+0,USA,MCW ,N43054113,W093194754,    ,MASON CITY               
+0,USA,MEI ,N32224238,W088481536,    ,MERIDIAN                 
+0,USA,MEM ,N35005438,W089585953,    ,MEMPHIS                  
+0,USA,MFD ,N40520700,W082352746,    ,MANSFIELD                
+0,USA,MFE ,N26102596,W098142683,    ,MC ALLEN                 
+0,USA,MGM ,N32132021,W086191102,    ,MONTGOMERY               
+0,USA,MGR ,         ,          ,    ,MOULTRIE                 
+0,USA,MGW ,N39332418,W079513748,    ,MORGANTOWN               
+0,USA,MHE ,N43463728,W098021524,    ,MITCHELL                 
+0,USA,MHF ,N29324684,W094445105,    ,TRINITY                  
+0,USA,MHK ,N39084360,W096400742,    ,MANHATTAN                
+0,USA,MHT ,N42520671,W071221032,    ,MANCHESTER               
+0,USA,MHZ ,N32260265,W090055918,    ,MAGNOLIA                 
+0,USA,MIB ,         ,          ,    ,DEERING                  
+0,USA,MIE ,N40141425,W085233853,    ,MUNCIE                   
+0,USA,MIJ ,         ,          ,    ,MICHAEL                  
+0,USA,MIP ,N41012421,W076395504,    ,MILTON                   
+0,USA,MJF ,         ,          ,    ,ARVILLA                  
+0,USA,MKG ,         ,          ,    ,MUSKEGON                 
+0,USA,MKL ,N35361284,W088543755,    ,MC KELLAR                
+0,USA,MKT ,N44131166,W093544448,    ,MANKATO                  
+0,USA,MLB ,N28061902,W080380722,    ,MELBOURNE                
+0,USA,MLC ,         ,          ,    ,MC ALESTER               
+0,USA,MLD ,N42115964,W112270445,    ,MALAD CITY               
+0,USA,MLF ,N38213728,W113004764,    ,MILFORD                  
+0,USA,MLP ,N47272485,W115384576,    ,MULLAN PASS              
+0,USA,MLS ,N46225602,W105571272,    ,MILES CITY               
+0,USA,MLT ,N45351215,W068305567,    ,MILLINOCKET              
+0,USA,MLU ,N32310078,W092020963,    ,MONROE                   
+0,USA,MMB ,N36203744,W099524844,    ,MITBEE                   
+0,USA,MMJ ,         ,          ,    ,MONTOUR                  
+0,USA,MML ,N44265428,W095492914,    ,MARSHALL                 
+0,USA,MMM ,N36460931,W114163883,    ,MORMON MESA              
+0,USA,MMT ,N33552674,W080480843,    ,MC ENTIRE                
+0,USA,MNM ,N45104855,W087384980,    ,MENOMINEE                
+0,USA,MOD ,N37373855,W120572833,    ,MODESTO                  
+0,USA,MOL ,N37540189,W079062480,    ,MONTEBELLO               
+0,USA,MON ,N33334313,W091425558,    ,MONTICELLO               
+0,USA,MOP ,N43372217,W084441416,    ,MOUNT PLEASANT           
+0,USA,MOT ,N48153721,W101171346,    ,MINOT                    
+0,USA,MOX ,N45335551,W095580960,    ,MORRIS                   
+0,USA,MPV ,N44050772,W072265771,    ,MONTPELIER               
+0,USA,MQG ,N46225361,W116521024,    ,NEZ PERCE                
+0,USA,MQO ,N35150812,W120453444,    ,MORRO BAY                
+0,USA,MQP ,N32433425,W097595079,    ,MILLSAP                  
+0,USA,MRB ,N39230806,W077505408,    ,MARTINSBURG              
+0,USA,MRF ,N30175414,W103571712,    ,MARFA                    
+0,USA,MSL ,N34422473,W087292946,    ,MUSCLE SHOALS            
+0,USA,MSN ,N43084141,W089202291,    ,MADISON                  
+0,USA,MSO ,N46542868,W114050115,    ,MISSOULA                 
+0,USA,MSP ,N44534740,W093141151,    ,MINNEAPOLIS              
+0,USA,MSS ,         ,          ,    ,MASSENA                  
+0,USA,MTC ,         ,          ,    ,SELFRIDGE                
+0,USA,MTJ ,N38302317,W107535744,    ,MONTROSE                 
+0,USA,MTO ,         ,          ,    ,MATTOON                  
+0,USA,MTU ,N40085674,W110073730,    ,MYTON                    
+0,USA,MTW ,         ,          ,    ,MANITOWOC                
+0,USA,MUO ,         ,          ,    ,MOUNTAIN HOME            
+0,USA,MVA ,N38335508,W118015827,    ,MINA                     
+0,USA,MVC ,N31273357,W087210914,    ,MONROEVILLE              
+0,USA,MVE ,N44582163,W095424389,    ,MONTEVIDEO               
+0,USA,MVY ,N41234637,W070364578,    ,MARTHAS VINEYARD         
+0,USA,MWA ,         ,          ,    ,MARION                   
+0,USA,MWH ,N47123911,W119190054,    ,MOSES LAKE               
+0,USA,MXE ,N39550498,W075401496,    ,MODENA                   
+0,USA,MXF ,         ,          ,    ,MAXWELL                  
+0,USA,MXQ ,N39254690,W083480446,    ,MIDWEST                  
+0,USA,MYS ,N37533864,W086144030,    ,MYSTIC                   
+0,USA,MYV ,N39055512,W121342301,    ,MARYSVILLE               
+0,USA,MZB ,N32465595,W117133153,    ,MISSION BAY              
+0,USA,MZV ,N41191532,W090381757,    ,MOLINE                   
+0,USA,MZZ ,N40293599,W085404530,    ,MARION                   
+0,USA,NBC ,         ,          ,    ,BEAUFORT                 
+0,USA,NCA ,         ,          ,    ,NEW RIVER                
+0,USA,NEL ,         ,          ,    ,LAKEHURST                
+0,USA,NFG ,         ,          ,    ,CAMP PENDLETON           
+0,USA,NFL ,         ,          ,    ,FALLON                   
+0,USA,NFW ,         ,          ,    ,NAS JRB FORT WORTH       
+0,USA,NGP ,         ,          ,    ,TRUAX                    
+0,USA,NGS ,         ,          ,    ,SANTA ROSA               
+0,USA,NGU ,         ,          ,    ,CHAMBERS                 
+0,USA,NHK ,         ,          ,    ,NAS PATUXENT RIVER       
+0,USA,NID ,         ,          ,    ,CHINA LAKE               
+0,USA,NIP ,         ,          ,    ,JACKSONVILLE             
+0,USA,NJK ,         ,          ,    ,EL CENTRO                
+0,USA,NKT ,         ,          ,    ,CHERRY POINT             
+0,USA,NKX ,         ,          ,    ,MIRAMAR                  
+0,USA,NLC ,         ,          ,    ,LEMOORE                  
+0,USA,NMM ,         ,          ,    ,MERIDIAN                 
+0,USA,NOG ,         ,          ,    ,ORANGE GROVE             
+0,USA,NPA ,         ,          ,    ,PENSACOLA                
+0,USA,NQI ,         ,          ,    ,KINGSVILLE               
+0,USA,NQX ,         ,          ,    ,KEY WEST                 
+0,USA,NRB ,         ,          ,    ,MAYPORT                  
+0,USA,NRS ,         ,          ,    ,IMPERIAL BEACH           
+0,USA,NSD ,         ,          ,    ,BEAVER                   
+0,USA,NSE ,         ,          ,    ,WHITING                  
+0,USA,NSI ,         ,          ,    ,SAN NICOLAS              
+0,USA,NTD ,         ,          ,    ,POINT MUGU               
+0,USA,NTU ,         ,          ,    ,OCEANA                   
+0,USA,NUC ,         ,          ,    ,SAN CLEMENTE             
+0,USA,NUN ,N30281971,W087200924,    ,SAUFLEY                  
+0,USA,NUQ ,         ,          ,    ,MOFFETT                  
+0,USA,NUW ,         ,          ,    ,WHIDBEY ISLAND           
+0,USA,NYL ,         ,          ,    ,YUMA                     
+0,USA,NZY ,         ,          ,    ,NORTH ISLAND             
+0,USA,OAB ,N38452247,W109445745,    ,MOAB                     
+0,USA,OAK ,N37433332,W122132491,    ,OAKLAND                  
+0,USA,OAL ,N38001174,W117461361,    ,COALDALE                 
+0,USA,OBH ,N41223265,W098211294,    ,WOLBACH                  
+0,USA,OBK ,N42131696,W087570601,    ,NORTHBROOK               
+0,USA,OCF ,N29103892,W082133480,    ,OCALA                    
+0,USA,OCN ,N33142628,W117250380,    ,OCEANSIDE                
+0,USA,OCS ,N41352476,W109005518,    ,ROCK SPRINGS             
+0,USA,ODF ,N34414514,W083175158,    ,FOOTHILLS                
+0,USA,ODG ,N36222557,W097471723,    ,WOODRING                 
+0,USA,ODI ,N43544439,W091280306,    ,NODINE                   
+0,USA,ODR ,N37192712,W079584435,    ,WOODRUM                  
+0,USA,OED ,N42284647,W122544656,    ,ROGUE VALLEY             
+0,USA,OFF ,         ,          ,    ,OFFUTT                   
+0,USA,OFK ,N41591654,W097260445,    ,NORFOLK                  
+0,USA,OGD ,N41132674,W112055367,    ,OGDEN                    
+0,USA,OKK ,N40314001,W086032880,    ,KOKOMO                   
+0,USA,OKM ,N35413507,W095515744,    ,OKMULGEE                 
+0,USA,OKW ,N33141631,W087145952,    ,BROOKWOOD                
+0,USA,OLK ,N41144887,W085295063,    ,WEBSTER LAKE             
+0,USA,OLM ,N46581790,W122540660,    ,OLYMPIA                  
+0,USA,OLS ,N31245384,W110505603,    ,NOGALES                  
+0,USA,OLU ,N41270011,W097202695,    ,COLUMBUS                 
+0,USA,OMN ,N29181170,W081064571,    ,ORMOND BEACH             
+0,USA,ONL ,N42281380,W098411294,    ,O'NEILL                  
+0,USA,ONM ,N34202004,W106491369,    ,SOCORRO                  
+0,USA,ONP ,N44343126,W124033814,    ,NEWPORT                  
+0,USA,OOD ,N39380988,W075181100,    ,WOODSTOWN                
+0,USA,OOM ,N39083776,W086364687,    ,HOOSIER                  
+0,USA,ORF ,N36533086,W076120118,    ,NORFOLK                  
+0,USA,ORL ,N28323380,W081200605,    ,ORLANDO                  
+0,USA,ORW ,N41332305,W071595767,    ,NORWICH                  
+0,USA,OSH ,N43592556,W088332136,    ,OSHKOSH                  
+0,USA,OSI ,N37233300,W122165269,    ,WOODSIDE                 
+0,USA,OSW ,N37092704,W095121308,    ,OSWEGO                   
+0,USA,OTB ,N34132579,W088475049,    ,TUPELO                   
+0,USA,OTG ,N43384890,W095345505,    ,WORTHINGTON              
+0,USA,OTH ,N43245582,W124100668,    ,NORTH BEND               
+0,USA,OTK ,N30464960,W083164702,    ,VALDOSTA                 
+0,USA,OTM ,N41014481,W092193323,    ,OTTUMWA                  
+0,USA,OTO ,N35042017,W105560989,    ,OTTO                     
+0,USA,OTT ,N38422114,W076444109,    ,NOTTINGHAM               
+0,USA,OVR ,N41100180,W095441267,    ,OMAHA                    
+0,USA,OWB ,N37443680,W087095737,    ,OWENSBORO                
+0,USA,OXI ,N41191941,W086385744,    ,KNOX                     
+0,USA,OZB ,N40521325,W100001355,    ,COZAD                    
+0,USA,OZR ,N31160822,W085433473,    ,CAIRNS                   
+0,USA,PAE ,N47551140,W122164009,    ,PAINE                    
+0,USA,PAM ,         ,          ,    ,TYNDALL                  
+0,USA,PAN ,         ,          ,    ,PAYSON                   
+0,USA,PBF ,N34144833,W091553424,    ,PINE BLUFF               
+0,USA,PBI ,N26404820,W080051136,    ,PALM BEACH               
+0,USA,PCU ,N30334020,W089434976,    ,PICAYUNE                 
+0,USA,PDK ,N33523227,W084175573,    ,PEACHTREE                
+0,USA,PDT ,N45415432,W118561936,    ,PENDLETON                
+0,USA,PDZ ,N33550601,W117314799,    ,PARADISE                 
+0,USA,PEQ ,N31280953,W103342912,    ,PECOS                    
+0,USA,PER ,N36444751,W097093656,    ,PIONEER                  
+0,USA,PGA ,N36555176,W111265079,    ,PAGE                     
+0,USA,PGD ,N26550038,W081592849,    ,PUNTA GORDA              
+0,USA,PGO ,N34404967,W094363241,    ,RICH MOUNTAIN            
+0,USA,PGS ,N35372896,W113324008,    ,PEACH SPRINGS            
+0,USA,PGY ,N32363722,W116584476,    ,POGGI                    
+0,USA,PHK ,N26465787,W080412916,    ,PAHOKEE                  
+0,USA,PHP ,N44032966,W101395110,    ,PHILIP                   
+0,USA,PIA ,N40404825,W089473391,    ,PEORIA                   
+0,USA,PIE ,N27542795,W082410351,    ,ST PETERSBURG            
+0,USA,PIH ,N42521338,W112390803,    ,POCATELLO                
+0,USA,PIO ,N32314513,W105181887,    ,PINON                    
+0,USA,PIR ,N44234040,W100094611,    ,PIERRE                   
+0,USA,PKD ,         ,          ,    ,PARK RAPIDS              
+0,USA,PKE ,N34060710,W114405544,    ,PARKER                   
+0,USA,PLL ,N41575631,W089312719,    ,POLO                     
+0,USA,PLN ,N45375033,W084395079,    ,PELLSTON                 
+0,USA,PMD ,N34375303,W118034976,    ,PALMDALE                 
+0,USA,PMM ,N42275772,W086061731,    ,PULLMAN                  
+0,USA,PNH ,N35140622,W101415651,    ,PANHANDLE                
+0,USA,PNN ,         ,          ,    ,PRINCETON                
+0,USA,PNT ,N40491632,W088440063,    ,PONTIAC                  
+0,USA,POB ,         ,          ,    ,POPE                     
+0,USA,POM ,N34044220,W117471347,    ,POMONA                   
+0,USA,PQI ,N46462707,W068054037,    ,PRESQUE ISLE             
+0,USA,PRB ,N35402087,W120373759,    ,PASO ROBLES              
+0,USA,PRX ,N33323256,W095265385,    ,PARIS                    
+0,USA,PSB ,N40545853,W077593378,    ,PHILIPSBURG              
+0,USA,PSC ,N46161296,W119070226,    ,PASCO                    
+0,USA,PSI ,         ,          ,    ,PONTIAC                  
+0,USA,PSK ,N37051574,W080424644,    ,PULASKI                  
+0,USA,PSM ,         ,          ,    ,PEASE                    
+0,USA,PSP ,N33521205,W116254722,    ,PALM SPRINGS             
+0,USA,PSX ,N28455193,W096182225,    ,PALACIOS                 
+0,USA,PTW ,N40132004,W075333690,    ,POTTSTOWN                
+0,USA,PUB ,N38173931,W104254601,    ,PUEBLO                   
+0,USA,PUC ,N39361149,W110451270,    ,CARBON                   
+0,USA,PUT ,N41571966,W071503874,    ,PUTNAM                   
+0,USA,PUW ,N46402726,W117132461,    ,PULLMAN                  
+0,USA,PVD ,N41432763,W071254671,    ,PROVIDENCE               
+0,USA,PVU ,N40125377,W111431675,    ,PROVO                    
+0,USA,PVW ,N34051029,W101472467,    ,PLAINVIEW                
+0,USA,PWA ,N35315860,W097384984,    ,WILEY POST               
+0,USA,PWE ,N40120127,W096122261,    ,PAWNEE CITY              
+0,USA,PWL ,N41461118,W073360199,    ,PAWLING                  
+0,USA,PXN ,N36425565,W120464326,    ,PANOCHE                  
+0,USA,PXR ,N33255886,W111581273,    ,PHOENIX                  
+0,USA,PXT ,N38171628,W076240083,    ,PATUXENT                 
+0,USA,PXV ,N37554195,W087454457,    ,POCKET CITY              
+0,USA,PYE ,N38044712,W122520418,    ,POINT REYES              
+0,USA,PZD ,N31391874,W084173516,    ,PECAN                    
+0,USA,RAL ,N33571865,W117265938,    ,RIVERSIDE                
+0,USA,RAP ,N43583374,W103004438,    ,RAPID CITY               
+0,USA,RAV ,N40331222,W076355777,    ,RAVINE                   
+0,USA,RBA ,         ,          ,    ,ROBINSON                 
+0,USA,RBG ,N43105670,W123210807,    ,ROSEBURG                 
+0,USA,RBL ,N40055608,W122141086,    ,RED BLUFF                
+0,USA,RBS ,N40345413,W088095136,    ,ROBERTS                  
+0,USA,RBV ,N40120865,W074294209,    ,ROBBINSVILLE             
+0,USA,RBX ,N35551379,W075414896,    ,WRIGHT BROTHERS          
+0,USA,RCA ,         ,          ,    ,ELLSWORTH                
+0,USA,RDD ,N40301643,W122173013,    ,REDDING                  
+0,USA,RDR ,         ,          ,    ,RED RIVER                
+0,USA,RDU ,N35522108,W078470003,    ,RALEIGH/DURHAM           
+0,USA,RDY ,         ,          ,    ,SARDY                    
+0,USA,REC ,N40324725,W078444928,    ,REVLOC                   
+0,USA,REO ,N42352598,W117520535,    ,ROME                     
+0,USA,RFD ,         ,          ,    ,ROCKFORD                 
+0,USA,RHI ,N45380159,W089272804,    ,RHINELANDER              
+0,USA,RIC ,N37300848,W077191297,    ,RICHMOND                 
+0,USA,RID ,         ,          ,    ,RICHMOND                 
+0,USA,RIL ,N39314196,W107431077,    ,RIFLE                    
+0,USA,RIV ,         ,          ,    ,MARCH                    
+0,USA,RIW ,N43035663,W108271992,    ,RIVERTON                 
+0,USA,RKA ,N42275879,W075142122,    ,ROCKDALE                 
+0,USA,RLG ,N40000950,W106263296,    ,KREMMLING                
+0,USA,RLY ,N43575090,W107570302,    ,WORLAND                  
+0,USA,RMG ,N34094523,W085070987,    ,ROME                     
+0,USA,RND ,N29310901,W098170663,    ,RANDOLPH                 
+0,USA,RNL ,N37583112,W080482343,    ,RAINELLE                 
+0,USA,ROA ,N37203647,W080041343,    ,ROANOKE                  
+0,USA,ROC ,N43070465,W077402206,    ,ROCHESTER                
+0,USA,ROD ,N40171608,W084023515,    ,ROSEWOOD                 
+0,USA,ROX ,N48511713,W095414190,    ,ROSEAU                   
+0,USA,RQR ,N30051500,W090351905,    ,RESERVE                  
+0,USA,RQZ ,N34475006,W086380185,    ,ROCKET                   
+0,USA,RRS ,N31170451,W085255236,    ,WIREGRASS                
+0,USA,RSG ,N30005257,W100175944,    ,ROCKSPRINGS              
+0,USA,RSK ,N36445421,W108055604,    ,RATTLESNAKE              
+0,USA,RST ,N43465845,W092354906,    ,ROCHESTER                
+0,USA,RSW ,N26314755,W081463276,    ,LEE COUNTY               
+0,USA,RUT ,         ,          ,    ,RUTLAND                  
+0,USA,RWF ,N44280219,W095074163,    ,REDWOOD FALLS            
+0,USA,RZC ,N36144714,W094071701,    ,RAZORBACK                
+0,USA,RZN ,         ,          ,    ,SIREN                    
+0,USA,RZS ,N34303432,W119461557,    ,SAN MARCUS               
+0,USA,SAC ,N38263746,W121330595,    ,SACRAMENTO               
+0,USA,SAE ,N41070877,W101463380,    ,SEARLE                   
+0,USA,SAF ,N35322595,W106035377,    ,SANTA FE                 
+0,USA,SAM ,N38290668,W088050890,    ,SAMSVILLE                
+0,USA,SAT ,N29383851,W098274074,    ,SAN ANTONIO              
+0,USA,SAU ,N37511920,W122312191,    ,SAUSALITO                
+0,USA,SAV ,N32084656,W081115678,    ,SAVANNAH                 
+0,USA,SAW ,N46213212,W087235072,    ,SAWYER                   
+0,USA,SAX ,N41040315,W074321791,    ,SPARTA                   
+0,USA,SBI ,N29411219,W094021672,    ,SABINE PASS              
+0,USA,SBJ ,N40345896,W074443045,    ,SOLBERG                  
+0,USA,SBV ,N36403014,W079005220,    ,SOUTH BOSTON             
+0,USA,SBY ,N38204202,W075303807,    ,SALISBURY                
+0,USA,SCB ,N41361712,W096374382,    ,SCRIBNER                 
+0,USA,SDO ,N41242540,W118020500,    ,SOD HOUSE                
+0,USA,SDZ ,N35125573,W079351657,    ,SANDHILLS                
+0,USA,SEA ,N47260734,W122183462,    ,SEATTLE                  
+0,USA,SEG ,N40472709,W076530255,    ,SELINSGROVE              
+0,USA,SEY ,N41100277,W071343391,    ,SANDY POINT              
+0,USA,SFK ,N41414291,W077251166,    ,STONYFORK                
+0,USA,SFL ,N31445322,W105051252,    ,SALT FLAT                
+0,USA,SFO ,N37371015,W122222602,    ,SAN FRANCISCO            
+0,USA,SGD ,N38104570,W122222335,    ,SCAGGS ISLAND            
+0,USA,SGF ,N37212141,W093200255,    ,SPRINGFIELD              
+0,USA,SGH ,         ,          ,    ,SPRINGFIELD              
+0,USA,SGJ ,N29572423,W081194877,    ,ST AUGUSTINE             
+0,USA,SHB ,N39375715,W085492754,    ,SHELBYVILLE              
+0,USA,SHP ,         ,          ,    ,SHEPPARD                 
+0,USA,SHR ,N44503228,W107033996,    ,SHERIDAN                 
+0,USA,SHY ,N38022622,W092360868,    ,SUNSHINE                 
+0,USA,SIE ,N39054383,W074480124,    ,SEA ISLE                 
+0,USA,SJC ,N37222896,W121564081,    ,SAN JOSE                 
+0,USA,SJI ,N30433353,W088213346,    ,SEMMES                   
+0,USA,SJN ,N34252655,W109083671,    ,ST JOHNS                 
+0,USA,SJT ,N31222984,W100271753,    ,SAN ANGELO               
+0,USA,SKA ,         ,          ,    ,FAIRCHILD                
+0,USA,SKE ,         ,          ,    ,SCOTT                    
+0,USA,SLI ,N33465988,W118031713,    ,SEAL BEACH               
+0,USA,SLK ,         ,          ,    ,SARANAC LAKE             
+0,USA,SLN ,N38553050,W097371680,    ,SALINA                   
+0,USA,SLR ,N33115482,W095323335,    ,SULPHUR SPRINGS          
+0,USA,SLT ,N41304593,W077581240,    ,SLATE RUN                
+0,USA,SMO ,N34003688,W118272418,    ,SANTA MONICA             
+0,USA,SNS ,N36394981,W121361147,    ,SALINAS                  
+0,USA,SNY ,N41054806,W102585877,    ,SIDNEY                   
+0,USA,SOT ,N35472436,W083030853,    ,SNOWBIRD                 
+0,USA,SPA ,N35020105,W081553724,    ,SPARTANBURG              
+0,USA,SPI ,N39502304,W089403985,    ,SPINNER                  
+0,USA,SPS ,N33591424,W098353650,    ,WICHITA FALLS            
+0,USA,SPW ,N43094384,W095120357,    ,SPENCER                  
+0,USA,SQS ,N33274986,W090163846,    ,SIDON                    
+0,USA,SRQ ,N27242526,W082334919,    ,SARASOTA                 
+0,USA,SSC ,         ,          ,    ,SHAW                     
+0,USA,SSF ,N29153018,W098263653,    ,STINSON                  
+0,USA,SSI ,N31030185,W081264547,    ,BRUNSWICK                
+0,USA,SSM ,N46244360,W084185354,    ,SAULT STE MARIE          
+0,USA,SSO ,N32160928,W109154712,    ,SAN SIMON                
+0,USA,STC ,N45325751,W094033096,    ,ST CLOUD                 
+0,USA,STJ ,N39573808,W094553079,    ,ST JOSEPH                
+0,USA,STL ,N38513860,W090285646,    ,ST LOUIS                 
+0,USA,STS ,         ,          ,    ,SANTA ROSA               
+0,USA,STV ,N30122433,W098422072,    ,STONEWALL                
+0,USA,STW ,N40594495,W074520851,    ,STILLWATER               
+0,USA,SUG ,N35242342,W082160701,    ,SUGARLOAF MOUNTAIN       
+0,USA,SUU ,         ,          ,    ,TRAVIS                   
+0,USA,SUX ,         ,          ,    ,SIOUX CITY               
+0,USA,SVC ,N32381567,W108093984,    ,SILVER CITY              
+0,USA,SVM ,N42243111,W083353805,    ,SALEM                    
+0,USA,SVN ,N32004300,W081082711,    ,HUNTER                   
+0,USA,SWB ,N31582350,W092403752,    ,SAWMILL                  
+0,USA,SWL ,N38032374,W075275004,    ,SNOW HILL                
+0,USA,SWO ,N36132729,W097045253,    ,STILLWATER               
+0,USA,SWR ,N39104916,W120161060,    ,SQUAW VALLEY             
+0,USA,SXC ,N33223020,W118251168,    ,SANTA CATALINA           
+0,USA,SXW ,N39374612,W106592821,    ,SNOW                     
+0,USA,SYI ,N35334312,W086262095,    ,SHELBYVILLE              
+0,USA,SYR ,N43093787,W076121641,    ,SYRACUSE                 
+0,USA,SZL ,         ,          ,    ,WHITEMAN                 
+0,USA,SZW ,N30332242,W084222619,    ,SEMINOLE                 
+0,USA,TAS ,N36363157,W105542275,    ,TAOS                     
+0,USA,TAY ,N30301670,W082331045,    ,TAYLOR                   
+0,USA,TBC ,N36071672,W111161052,    ,TUBA CITY                
+0,USA,TBD ,N29395156,W090494474,    ,TIBBY                    
+0,USA,TBE ,N37153117,W103360020,    ,TOBE                     
+0,USA,TBN ,N37443276,W092082038,    ,FORNEY                   
+0,USA,TCC ,N35105594,W103355489,    ,TUCUMCARI                
+0,USA,TCH ,N40510093,W111585486,    ,WASATCH                  
+0,USA,TCM ,         ,          ,    ,MCCHORD                  
+0,USA,TCS ,N33165701,W107164997,    ,TRUTH OR CONSEQUENCES    
+0,USA,TDD ,N41585399,W100430852,    ,THEDFORD                 
+0,USA,TDG ,         ,          ,    ,TALLADEGA                
+0,USA,TDT ,         ,          ,    ,TIDIOUTE                 
+0,USA,TEB ,N40505539,W074034407,    ,TETERBORO                
+0,USA,TFD ,N32530908,W111543144,    ,STANFIELD                
+0,USA,TGE ,N32290553,W085400955,    ,TUSKEGEE                 
+0,USA,THS ,N39555962,W077570340,    ,ST THOMAS                
+0,USA,THX ,N28301799,W098090168,    ,THREE RIVERS             
+0,USA,TIK ,         ,          ,    ,TINKER                   
+0,USA,TKO ,N39482307,W098153613,    ,MANKATO                  
+0,USA,TNP ,N34064404,W115461166,    ,TWENTYNINE PALMS         
+0,USA,TNU ,N41470198,W093063252,    ,NEWTON                   
+0,USA,TNV ,N30171870,W096032966,    ,NAVASOTA                 
+0,USA,TOL ,         ,          ,    ,TOLEDO                   
+0,USA,TOP ,N39081348,W095325701,    ,TOPEKA                   
+0,USA,TOU ,N48175964,W124373736,    ,TATOOSH                  
+0,USA,TOY ,N38442094,W089550693,    ,TROY                     
+0,USA,TPH ,N38015032,W117020061,    ,TONOPAH                  
+0,USA,TPL ,         ,          ,    ,TEMPLE                   
+0,USA,TQA ,N32140868,W099490042,    ,TUSCOLA                  
+0,USA,TQQ ,N37472544,W116464536,    ,SILVERBOW                
+0,USA,TRM ,N33374115,W116093670,    ,THERMAL                  
+0,USA,TRV ,N27404233,W080292301,    ,TREASURE                 
+0,USA,TST ,N42333158,W103184373,    ,TOADSTOOL                
+0,USA,TTE ,N35544698,W119011491,    ,TULE                     
+0,USA,TTH ,N39292019,W087145645,    ,TERRE HAUTE              
+0,USA,TTT ,N32520898,W097022581,    ,MAVERICK                 
+0,USA,TUL ,N36114651,W095471713,    ,TULSA                    
+0,USA,TUS ,N32054273,W110545348,    ,TUCSON                   
+0,USA,TVC ,N44400450,W085330004,    ,TRAVERSE CITY            
+0,USA,TVF ,N48040953,W096111131,    ,THIEF RIVER FALLS        
+0,USA,TWF ,N42284748,W114292203,    ,TWIN FALLS               
+0,USA,TXC ,N39415394,W103125378,    ,THURMAN                  
+0,USA,TXK ,N33304997,W094042367,    ,TEXARKANA                
+0,USA,TXO ,N34294246,W102502279,    ,TEXICO                   
+0,USA,TYI ,N35583621,W077421343,    ,TAR RIVER                
+0,USA,TYR ,N32212112,W095241248,    ,TYLER                    
+0,USA,UBG ,N45211164,W122584133,    ,NEWBERG                  
+0,USA,UCA ,         ,          ,    ,UTICA                    
+0,USA,UIM ,         ,          ,    ,QUITMAN                  
+0,USA,UIN ,N39505235,W091164413,    ,QUINCY                   
+0,USA,UJM ,N34343017,W090402785,    ,MARVELL                  
+0,USA,UKN ,         ,          ,    ,WAUKON                   
+0,USA,UKW ,N33320919,W097491660,    ,BOWIE                    
+0,USA,ULW ,N42053896,W077012930,    ,ELMIRA                   
+0,USA,URH ,         ,          ,    ,TEXOMA                   
+0,USA,UTI ,N37010343,W113310444,    ,ST GEORGE                
+0,USA,VAD ,         ,          ,    ,MOODY                    
+0,USA,VAN ,N33282939,W080265511,    ,VANCE                    
+0,USA,VBG ,         ,          ,    ,VANDENBERG               
+0,USA,VCN ,N39321562,W074580172,    ,CEDAR LAKE               
+0,USA,VCT ,N28540115,W096584417,    ,VICTORIA                 
+0,USA,VCV ,N34353899,W117232399,    ,VICTORVILLE              
+0,USA,VEL ,N40224398,W109293582,    ,VERNAL                   
+0,USA,VHP ,N39485303,W086220300,    ,BRICKYARD                
+0,USA,VIH ,N38091466,W091422438,    ,VICHY                    
+0,USA,VIO ,N42471218,W085294946,    ,VICTORY                  
+0,USA,VIS ,N36220235,W119285579,    ,VISALIA                  
+0,USA,VKZ ,N25450685,W080091600,    ,VIRGINIA KEY             
+0,USA,VLA ,N39053782,W089094408,    ,VANDALIA                 
+0,USA,VNA ,N32124839,W083295012,    ,VIENNA                   
+0,USA,VNN ,         ,          ,    ,MOUNT VERNON             
+0,USA,VNY ,N34132445,W118293003,    ,VAN NUYS                 
+0,USA,VOK ,         ,          ,    ,VOLK                     
+0,USA,VTU ,N34065423,W119025820,    ,VENTURA                  
+0,USA,VUH ,N29160960,W094520381,    ,SCHOLES                  
+0,USA,VUZ ,N33401248,W086535941,    ,VULCAN                   
+0,USA,VXV ,N35541741,W083534099,    ,VOLUNTEER                
+0,USA,WRB ,         ,          ,    ,ROBINS                   
+0,USA,WYS ,         ,          ,    ,WEST YELLOWSTONE         
+0,USA,XSF ,         ,          ,    ,SPRINGFIELD              
+0,USA,XUB ,N39313678,W082584059,    ,YELLOW BUD               
+0,USA,YKM ,N46341287,W120264069,    ,YAKIMA                   
+0,USA,YKN ,N42550615,W097230592,    ,YANKTON                  
+0,USA,YNG ,N41195169,W080402879,    ,YOUNGSTOWN               
+0,USA,YRK ,N38383888,W082584202,    ,YORK                     
+0,USA,ZBV ,N25421500,W079174000,    ,BIMINI                   
+0,USA,ZFP ,N26331925,W078415225,    ,FREEPORT                 
+0,USA,ZQA ,N25013180,W077264710,    ,NASSAU                   
+0,USA,ZTC ,N26440500,W077224500,    ,TREASURE CAY             
+0,USA,ZUN ,N34575671,W109091623,    ,ZUNI                     
+0,USA,ZZV ,N39562709,W081533337,    ,ZANESVILLE               
+0,USA,ISYK,         ,          ,06FA,WILLIAM P GWINN          
+0,USA,IVVM,         ,          ,3J7 ,GREENE COUNTY RGNL       
+0,USA,ICFQ,         ,          ,C29 ,MIDDLETON MUNI/MOREY FLD 
+0,USA,IGHO,         ,          ,F45 ,NORTH PALM BEACH COUNTY  
+0,USA,IAAO,         ,          ,KAAO,COLONEL JAMES JABARA     
+0,USA,IGUW,         ,          ,KABE,LEHIGH VALLEY INTL       
+0,USA,IABI,         ,          ,KABI,ABILENE RGNL             
+0,USA,IEMB,         ,          ,KABI,ABILENE RGNL             
+0,USA,ISPT,         ,          ,KABQ,ALBUQUERQUE INTL SUNPORT 
+0,USA,IABR,         ,          ,KABR,ABERDEEN RGNL            
+0,USA,IABY,         ,          ,KABY,SOUTHWEST GEORGIA RGNL   
+0,USA,IACK,         ,          ,KACK,NANTUCKET MEML           
+0,USA,IRNE,         ,          ,KACK,NANTUCKET MEML           
+0,USA,IACT,         ,          ,KACT,WACO RGNL                
+0,USA,IACV,         ,          ,KACV,CALIFORNIA REDWOOD COAST 
+0,USA,IACY,         ,          ,KACY,ATLANTIC CITY INTL       
+0,USA,IPVO,         ,          ,KACY,ATLANTIC CITY INTL       
+0,USA,IADS,         ,          ,KADS,ADDISON                  
+0,USA,ITBQ,         ,          ,KADS,ADDISON                  
+0,USA,IAFJ,         ,          ,KAFJ,WASHINGTON COUNTY        
+0,USA,IAFP,         ,          ,KAFP,ANSON COUNTY/JEFF CLOUD  
+0,USA,IJVX,         ,          ,KAFW,FORT WORTH ALLIANCE      
+0,USA,IUPE,         ,          ,KAFW,FORT WORTH ALLIANCE      
+0,USA,IBYE,         ,          ,KAIA,ALLIANCE MUNI            
+0,USA,IAIK,         ,          ,KAIK,AIKEN RGNL               
+0,USA,IAKR,         ,          ,KAKR,AKRON FULTON INTL        
+0,USA,IALB,         ,          ,KALB,ALBANY INTL              
+0,USA,IDEJ,         ,          ,KALB,ALBANY INTL              
+0,USA,IALI,         ,          ,KALI,ALICE INTL               
+0,USA,IALN,         ,          ,KALN,ST LOUIS RGNL            
+0,USA,IALO,         ,          ,KALO,WATERLOO RGNL            
+0,USA,IRIQ,         ,          ,KAMA,RICK HUSBAND AMARILLO IN 
+0,USA,IANE,         ,          ,KANE,ANOKA COUNTY-BLAINE (JAN 
+0,USA,IAPA,         ,          ,KAPA,CENTENNIAL               
+0,USA,IAPC,         ,          ,KAPC,NAPA COUNTY              
+0,USA,IARA,         ,          ,KARA,ACADIANA RGNL            
+0,USA,IROF,         ,          ,KARR,AURORA MUNI              
+0,USA,IASE,         ,          ,KASE,ASPEN-PITKIN COUNTY/SARD 
+0,USA,IASN,         ,          ,KASN,TALLADEGA MUNI           
+0,USA,IASW,         ,          ,KASW,WARSAW MUNI              
+0,USA,IASX,         ,          ,KASX,JOHN F KENNEDY MEML      
+0,USA,IATL,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IBRU,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IFSQ,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IFUN,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IGXZ,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IHFW,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IHZK,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IOMO,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IPKU,         ,          ,KATL,HARTSFIELD - JACKSON ATL 
+0,USA,IAQZ,         ,          ,KATW,APPLETON INTL            
+0,USA,IATW,         ,          ,KATW,APPLETON INTL            
+0,USA,IATY,         ,          ,KATY,WATERTOWN RGNL           
+0,USA,IBSM,         ,          ,KAUS,AUSTIN-BERGSTROM INTL    
+0,USA,IGFQ,         ,          ,KAUS,AUSTIN-BERGSTROM INTL    
+0,USA,IHCE,         ,          ,KAUS,AUSTIN-BERGSTROM INTL    
+0,USA,IVNK,         ,          ,KAUS,AUSTIN-BERGSTROM INTL    
+0,USA,IAVC,         ,          ,KAVC,MECKLENBURG-BRUNSWICK RG 
+0,USA,IAVL,         ,          ,KAVL,ASHEVILLE RGNL           
+0,USA,IIMO,         ,          ,KAVL,ASHEVILLE RGNL           
+0,USA,IAVP,         ,          ,KAVP,WILKES-BARRE/SCRANTON IN 
+0,USA,IIZK,         ,          ,KAVP,WILKES-BARRE/SCRANTON IN 
+0,USA,ILWR,         ,          ,KAWM,WEST MEMPHIS MUNI        
+0,USA,IAXH,         ,          ,KAXH,HOUSTON/SOUTHWEST        
+0,USA,IBBG,         ,          ,KBBG,BRANSON                  
+0,USA,IBCB,         ,          ,KBCB,VIRGINIA TECH/MONTGOMERY 
+0,USA,IBDL,         ,          ,KBDL,BRADLEY INTL             
+0,USA,IIKX,         ,          ,KBDL,BRADLEY INTL             
+0,USA,IMYQ,         ,          ,KBDL,BRADLEY INTL             
+0,USA,IBDR,         ,          ,KBDR,IGOR I SIKORSKY MEML     
+0,USA,IBED,         ,          ,KBED,LAURENCE G HANSCOM FLD   
+0,USA,IULJ,         ,          ,KBED,LAURENCE G HANSCOM FLD   
+0,USA,IBEH,         ,          ,KBEH,SOUTHWEST MICHIGAN RGNL  
+0,USA,IBFF,         ,          ,KBFF,WESTERN NEBRASKA RGNL/WI 
+0,USA,IRMT,         ,          ,KBFF,WESTERN NEBRASKA RGNL/WI 
+0,USA,IBFI,         ,          ,KBFI,BOEING FLD/KING COUNTY I 
+0,USA,ICHJ,         ,          ,KBFI,BOEING FLD/KING COUNTY I 
+0,USA,IBFL,         ,          ,KBFL,MEADOWS FLD              
+0,USA,IRUJ,         ,          ,KBFM,MOBILE DOWNTOWN          
+0,USA,IBGR,         ,          ,KBGR,BANGOR INTL              
+0,USA,IJVH,         ,          ,KBGR,BANGOR INTL              
+0,USA,IBHB,         ,          ,KBHB,HANCOCK COUNTY/BAR HARBO 
+0,USA,IBXO,         ,          ,KBHM,BIRMINGHAM-SHUTTLESWORTH 
+0,USA,IROE,         ,          ,KBHM,BIRMINGHAM-SHUTTLESWORTH 
+0,USA,IBIH,         ,          ,KBIH,BISHOP                   
+0,USA,IBIL,         ,          ,KBIL,BILLINGS LOGAN INTL      
+0,USA,IBMO,         ,          ,KBIL,BILLINGS LOGAN INTL      
+0,USA,IBIS,         ,          ,KBIS,BISMARCK MUNI            
+0,USA,IBIV,         ,          ,KBIV,WEST MICHIGAN RGNL       
+0,USA,IBJI,         ,          ,KBJI,BEMIDJI RGNL             
+0,USA,IBFT,         ,          ,KBKL,BURKE LAKEFRONT          
+0,USA,IOSV,         ,          ,KBKV,BROOKSVILLE-TAMPA BAY RG 
+0,USA,IBKX,         ,          ,KBKX,BROOKINGS RGNL           
+0,USA,IBLI,         ,          ,KBLI,BELLINGHAM INTL          
+0,USA,IBTC,         ,          ,KBLV,SCOTT AFB/MIDAMERICA ST  
+0,USA,IBMI,         ,          ,KBMI,CENTRAL IL RGNL/BLOOMING 
+0,USA,ILHJ,         ,          ,KBMI,CENTRAL IL RGNL/BLOOMING 
+0,USA,ITXN,         ,          ,KBMI,CENTRAL IL RGNL/BLOOMING 
+0,USA,IBNA,         ,          ,KBNA,NASHVILLE INTL           
+0,USA,ISSX,         ,          ,KBNA,NASHVILLE INTL           
+0,USA,IUQU,         ,          ,KBNA,NASHVILLE INTL           
+0,USA,IAAD,         ,          ,KBOI,BOISE AIR TRML/GOWEN FLD 
+0,USA,IBOI,         ,          ,KBOI,BOISE AIR TRML/GOWEN FLD 
+0,USA,IBOS,         ,          ,KBOS,GENERAL EDWARD LAWRENCE  
+0,USA,IDGU,         ,          ,KBOS,GENERAL EDWARD LAWRENCE  
+0,USA,ILIP,         ,          ,KBOS,GENERAL EDWARD LAWRENCE  
+0,USA,ILQN,         ,          ,KBOS,GENERAL EDWARD LAWRENCE  
+0,USA,IMDC,         ,          ,KBOS,GENERAL EDWARD LAWRENCE  
+0,USA,IBPK,         ,          ,KBPK,BAXTER COUNTY            
+0,USA,IBPT,         ,          ,KBPT,JACK BROOKS RGNL         
+0,USA,ILER,         ,          ,KBRD,BRAINERD LAKES RGNL      
+0,USA,IBRO,         ,          ,KBRO,BROWNSVILLE/SOUTH PADRE  
+0,USA,IBEY,         ,          ,KBTM,BERT MOONEY              
+0,USA,IBTR,         ,          ,KBTR,BATON ROUGE METRO, RYAN  
+0,USA,ICLZ,         ,          ,KBTR,BATON ROUGE METRO, RYAN  
+0,USA,IBTV,         ,          ,KBTV,BURLINGTON INTL          
+0,USA,IVOE,         ,          ,KBTV,BURLINGTON INTL          
+0,USA,IBNQ,         ,          ,KBUF,BUFFALO NIAGARA INTL     
+0,USA,IBVX,         ,          ,KBVX,BATESVILLE RGNL          
+0,USA,IBVY,         ,          ,KBVY,BEVERLY RGNL             
+0,USA,IBWI,         ,          ,KBWI,BALTIMORE/WASHINGTON INT 
+0,USA,IBXM,         ,          ,KBXM,BRUNSWICK EXEC           
+0,USA,IBYH,         ,          ,KBYH,ARKANSAS INTL            
+0,USA,IBYL,         ,          ,KBYL,WILLIAMSBURG-WHITLEY COU 
+0,USA,IMAY,         ,          ,KCAD,WEXFORD COUNTY           
+0,USA,IEQX,         ,          ,KCAK,AKRON-CANTON RGNL        
+0,USA,IGGZ,         ,          ,KCAK,AKRON-CANTON RGNL        
+0,USA,ICBE,         ,          ,KCBE,GREATER CUMBERLAND RGNL  
+0,USA,ICBF,         ,          ,KCBF,COUNCIL BLUFFS MUNI      
+0,USA,ICCR,         ,          ,KCCR,BUCHANAN FLD             
+0,USA,IFTG,         ,          ,KCFO,COLORADO AIR AND SPACE P 
+0,USA,IFZR,         ,          ,KCFO,COLORADO AIR AND SPACE P 
+0,USA,IVWT,         ,          ,KCFO,COLORADO AIR AND SPACE P 
+0,USA,ICGF,         ,          ,KCGF,CUYAHOGA COUNTY          
+0,USA,ICGI,         ,          ,KCGI,CAPE GIRARDEAU RGNL      
+0,USA,ICHO,         ,          ,KCHO,CHARLOTTESVILLE-ALBEMARL 
+0,USA,ICIC,         ,          ,KCIC,CHICO MUNI               
+0,USA,IRRU,         ,          ,KCID,THE EASTERN IOWA         
+0,USA,ICLE,         ,          ,KCLE,CLEVELAND-HOPKINS INTL   
+0,USA,IHPI,         ,          ,KCLE,CLEVELAND-HOPKINS INTL   
+0,USA,ILIZ,         ,          ,KCLE,CLEVELAND-HOPKINS INTL   
+0,USA,IPVY,         ,          ,KCLE,CLEVELAND-HOPKINS INTL   
+0,USA,IPXP,         ,          ,KCLE,CLEVELAND-HOPKINS INTL   
+0,USA,ICLL,         ,          ,KCLL,EASTERWOOD FLD           
+0,USA,IAPU,         ,          ,KCLT,CHARLOTTE/DOUGLAS INTL   
+0,USA,IBQC,         ,          ,KCLT,CHARLOTTE/DOUGLAS INTL   
+0,USA,IPEP,         ,          ,KCLT,CHARLOTTE/DOUGLAS INTL   
+0,USA,IRGS,         ,          ,KCLT,CHARLOTTE/DOUGLAS INTL   
+0,USA,IVKQ,         ,          ,KCLT,CHARLOTTE/DOUGLAS INTL   
+0,USA,IXUU,         ,          ,KCLT,CHARLOTTE/DOUGLAS INTL   
+0,USA,IAQI,         ,          ,KCMH,JOHN GLENN COLUMBUS INTL 
+0,USA,ICBP,         ,          ,KCMH,JOHN GLENN COLUMBUS INTL 
+0,USA,ICMH,         ,          ,KCMH,JOHN GLENN COLUMBUS INTL 
+0,USA,IONB,         ,          ,KCMH,JOHN GLENN COLUMBUS INTL 
+0,USA,ICMI,         ,          ,KCMI,UNIVERSITY OF ILLINOIS/W 
+0,USA,ICMX,         ,          ,KCMX,HOUGHTON COUNTY MEML     
+0,USA,IAHI,         ,          ,KCOS,CITY OF COLORADO SPRINGS 
+0,USA,ILPI,         ,          ,KCOS,CITY OF COLORADO SPRINGS 
+0,USA,ICOU,         ,          ,KCOU,COLUMBIA RGNL            
+0,USA,IEYK,         ,          ,KCPK,CHESAPEAKE RGNL          
+0,USA,ICPT,         ,          ,KCPT,CLEBURNE RGNL            
+0,USA,ICRE,         ,          ,KCRE,GRAND STRAND             
+0,USA,ICRP,         ,          ,KCRP,CORPUS CHRISTI INTL      
+0,USA,IEKI,         ,          ,KCRP,CORPUS CHRISTI INTL      
+0,USA,IOYC,         ,          ,KCRP,CORPUS CHRISTI INTL      
+0,USA,ICRQ,         ,          ,KCRQ,MC CLELLAN-PALOMAR       
+0,USA,ICRW,         ,          ,KCRW,YEAGER                   
+0,USA,IHCV,         ,          ,KCRW,YEAGER                   
+0,USA,ICUB,         ,          ,KCUB,JIM HAMILTON L B OWENS   
+0,USA,ICIZ,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,ICJN,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,ICVG,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,IEEI,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,ISIC,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,IURN,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,IVAC,         ,          ,KCVG,CINCINNATI/NORTHERN KENT 
+0,USA,ICWA,         ,          ,KCWA,CENTRAL WISCONSIN        
+0,USA,IPHS,         ,          ,KCWA,CENTRAL WISCONSIN        
+0,USA,IFNO,         ,          ,KCWI,CLINTON MUNI             
+0,USA,ICXO,         ,          ,KCXO,CONROE/NORTH HOUSTON RGN 
+0,USA,ICYS,         ,          ,KCYS,CHEYENNE RGNL/JERRY OLSO 
+0,USA,IDAA,         ,          ,KDAA,DAVISON AAF              
+0,USA,IDBF,         ,          ,KDAB,DAYTONA BEACH INTL       
+0,USA,IDAL,         ,          ,KDAL,DALLAS LOVE FLD          
+0,USA,IDPX,         ,          ,KDAL,DALLAS LOVE FLD          
+0,USA,ILVF,         ,          ,KDAL,DALLAS LOVE FLD          
+0,USA,IOVW,         ,          ,KDAL,DALLAS LOVE FLD          
+0,USA,IEGK,         ,          ,KDAY,JAMES M COX DAYTON INTL  
+0,USA,IVUQ,         ,          ,KDAY,JAMES M COX DAYTON INTL  
+0,USA,IDBN,         ,          ,KDBN,W H 'BUD' BARRON         
+0,USA,IDBQ,         ,          ,KDBQ,DUBUQUE RGNL             
+0,USA,IFUQ,         ,          ,KDBQ,DUBUQUE RGNL             
+0,USA,IASO,         ,          ,KDCA,RONALD REAGAN WASHINGTON 
+0,USA,IDCA,         ,          ,KDCA,RONALD REAGAN WASHINGTON 
+0,USA,IVWH,         ,          ,KDCA,RONALD REAGAN WASHINGTON 
+0,USA,IDCU,         ,          ,KDCU,PRYOR FLD RGNL           
+0,USA,IDEC,         ,          ,KDEC,DECATUR                  
+0,USA,IACX,         ,          ,KDEN,DENVER INTL              
+0,USA,IAQD,         ,          ,KDEN,DENVER INTL              
+0,USA,IBXP,         ,          ,KDEN,DENVER INTL              
+0,USA,IDPP,         ,          ,KDEN,DENVER INTL              
+0,USA,IDQQ,         ,          ,KDEN,DENVER INTL              
+0,USA,IDXU,         ,          ,KDEN,DENVER INTL              
+0,USA,IDZG,         ,          ,KDEN,DENVER INTL              
+0,USA,IERP,         ,          ,KDEN,DENVER INTL              
+0,USA,IFUI,         ,          ,KDEN,DENVER INTL              
+0,USA,IJOY,         ,          ,KDEN,DENVER INTL              
+0,USA,ILTT,         ,          ,KDEN,DENVER INTL              
+0,USA,IOUF,         ,          ,KDEN,DENVER INTL              
+0,USA,IAJQ,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IBXN,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,ICIX,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IFJN,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IFLQ,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IJHZ,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,ILWN,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IPKQ,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IPPZ,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IRRA,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IUWX,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IVYN,         ,          ,KDFW,DALLAS-FORT WORTH INTL   
+0,USA,IODA,         ,          ,KDHN,DOTHAN RGNL              
+0,USA,IDJK,         ,          ,KDKB,DE KALB TAYLOR MUNI      
+0,USA,IDLL,         ,          ,KDLL,BARABOO/WISCONSIN DELLS  
+0,USA,IDLS,         ,          ,KDLS,COLUMBIA GORGE RGNL/THE  
+0,USA,IDRT,         ,          ,KDRT,DEL RIO INTL             
+0,USA,IDSM,         ,          ,KDSM,DES MOINES INTL          
+0,USA,IDWW,         ,          ,KDSM,DES MOINES INTL          
+0,USA,IVGU,         ,          ,KDSM,DES MOINES INTL          
+0,USA,IDTN,         ,          ,KDTN,SHREVEPORT DOWNTOWN      
+0,USA,IALA,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IBZB,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IDMI,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IDTW,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IDWC,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IEJR,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IEPA,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IHJT,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IHUU,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IJKI,         ,          ,KDTW,DETROIT METRO WAYNE COUN 
+0,USA,IPQQ,         ,          ,KDVK,STUART POWELL FLD        
+0,USA,IDVN,         ,          ,KDVN,DAVENPORT MUNI           
+0,USA,IHEW,         ,          ,KDWH,DAVID WAYNE HOOKS MEML   
+0,USA,IDXR,         ,          ,KDXR,DANBURY MUNI             
+0,USA,IEAR,         ,          ,KEAR,KEARNEY RGNL             
+0,USA,IADJ,         ,          ,KEAT,PANGBORN MEML            
+0,USA,IEAU,         ,          ,KEAU,CHIPPEWA VALLEY RGNL     
+0,USA,IEPR,         ,          ,KECG,ELIZABETH CITY CG AIR ST 
+0,USA,IPUK,         ,          ,KECP,NORTHWEST FLORIDA BEACHE 
+0,USA,IEDE,         ,          ,KEDE,NORTHEASTERN RGNL        
+0,USA,IESJ,         ,          ,KEGE,EAGLE COUNTY RGNL        
+0,USA,IVAZ,         ,          ,KEGE,EAGLE COUNTY RGNL        
+0,USA,ILBJ,         ,          ,KEGV,EAGLE RIVER UNION        
+0,USA,IOUW,         ,          ,KEKN,ELKINS-RANDOLPH COUNTY-J 
+0,USA,IEKO,         ,          ,KEKO,ELKO RGNL                
+0,USA,IADR,         ,          ,KEKX,ADDINGTON FLD            
+0,USA,IEKY,         ,          ,KEKY,BESSEMER                 
+0,USA,IELD,         ,          ,KELD,SOUTH ARKANSAS RGNL AT G 
+0,USA,IELP,         ,          ,KELP,EL PASO INTL             
+0,USA,IETF,         ,          ,KELP,EL PASO INTL             
+0,USA,IEMV,         ,          ,KEMV,EMPORIA-GREENSVILLE RGNL 
+0,USA,IBBJ,         ,          ,KEOK,KEOKUK MUNI              
+0,USA,IEQY,         ,          ,KEQY,CHARLOTTE-MONROE EXEC    
+0,USA,IAWY,         ,          ,KERI,ERIE INTL/TOM RIDGE FLD  
+0,USA,IERI,         ,          ,KERI,ERIE INTL/TOM RIDGE FLD  
+0,USA,IESC,         ,          ,KESC,DELTA COUNTY             
+0,USA,IESF,         ,          ,KESF,ESLER RGNL               
+0,USA,IFGH,         ,          ,KESN,EASTON/NEWNAM FLD        
+0,USA,IADE,         ,          ,KEUG,MAHLON SWEET FLD         
+0,USA,IEUG,         ,          ,KEUG,MAHLON SWEET FLD         
+0,USA,IDSO,         ,          ,KEVV,EVANSVILLE RGNL          
+0,USA,IEVV,         ,          ,KEVV,EVANSVILLE RGNL          
+0,USA,IEVW,         ,          ,KEVW,EVANSTON-UINTA COUNTY BU 
+0,USA,IEWB,         ,          ,KEWB,NEW BEDFORD RGNL         
+0,USA,IEWR,         ,          ,KEWR,NEWARK LIBERTY INTL      
+0,USA,IEZA,         ,          ,KEWR,NEWARK LIBERTY INTL      
+0,USA,IGPR,         ,          ,KEWR,NEWARK LIBERTY INTL      
+0,USA,IJNN,         ,          ,KEWR,NEWARK LIBERTY INTL      
+0,USA,ILSQ,         ,          ,KEWR,NEWARK LIBERTY INTL      
+0,USA,IEXX,         ,          ,KEXX,DAVIDSON COUNTY          
+0,USA,IFAR,         ,          ,KFAR,HECTOR INTL              
+0,USA,IFAT,         ,          ,KFAT,FRESNO YOSEMITE INTL     
+0,USA,IRPW,         ,          ,KFAT,FRESNO YOSEMITE INTL     
+0,USA,IGRA,         ,          ,KFAY,FAYETTEVILLE RGNL/GRANNI 
+0,USA,ICFU,         ,          ,KFCI,RICHMOND EXEC/CHESTERFIE 
+0,USA,IPJE,         ,          ,KFEP,ALBERTUS                 
+0,USA,IFFC,         ,          ,KFFC,ATLANTA RGNL FALCON FLD  
+0,USA,IFFT,         ,          ,KFFT,CAPITAL CITY             
+0,USA,IFLD,         ,          ,KFLD,FOND DU LAC COUNTY       
+0,USA,IADI,         ,          ,KFLL,FORT LAUDERDALE/HOLLYWOO 
+0,USA,IFLL,         ,          ,KFLL,FORT LAUDERDALE/HOLLYWOO 
+0,USA,ILHI,         ,          ,KFLL,FORT LAUDERDALE/HOLLYWOO 
+0,USA,IUDL,         ,          ,KFLL,FORT LAUDERDALE/HOLLYWOO 
+0,USA,IBNX,         ,          ,KFMH,CAPE COD COAST GUARD AIR 
+0,USA,IFMH,         ,          ,KFMH,CAPE COD COAST GUARD AIR 
+0,USA,IFMN,         ,          ,KFMN,FOUR CORNERS RGNL        
+0,USA,IRTT,         ,          ,KFOA,FLORA MUNI               
+0,USA,IFOE,         ,          ,KFOE,TOPEKA RGNL              
+0,USA,IFOK,         ,          ,KFOK,FRANCIS S GABRESKI       
+0,USA,IFJD,         ,          ,KFPR,TREASURE COAST INTL      
+0,USA,IFQD,         ,          ,KFQD,RUTHERFORD COUNTY/MARCHM 
+0,USA,IFTK,         ,          ,KFTK,GODMAN AAF               
+0,USA,IFTW,         ,          ,KFTW,FORT WORTH MEACHAM INTL  
+0,USA,IUXT,         ,          ,KFTW,FORT WORTH MEACHAM INTL  
+0,USA,IFUL,         ,          ,KFUL,FULLERTON MUNI           
+0,USA,IFWA,         ,          ,KFWA,FORT WAYNE INTL          
+0,USA,IFYJ,         ,          ,KFYJ,MIDDLE PENINSULA RGNL    
+0,USA,IFYV,         ,          ,KFYV,DRAKE FLD                
+0,USA,ILFH,         ,          ,KFYV,DRAKE FLD                
+0,USA,IFZY,         ,          ,KFZY,OSWEGO COUNTY            
+0,USA,IGAD,         ,          ,KGAD,NORTHEAST ALABAMA RGNL   
+0,USA,IGAO,         ,          ,KGAO,SOUTH LAFOURCHE LEONARD  
+0,USA,IGBD,         ,          ,KGBD,GREAT BEND MUNI          
+0,USA,ILLT,         ,          ,KGCC,NORTHEAST WYOMING RGNL   
+0,USA,IGEG,         ,          ,KGEG,SPOKANE INTL             
+0,USA,IOLJ,         ,          ,KGEG,SPOKANE INTL             
+0,USA,IJUH,         ,          ,KGEV,ASHE COUNTY              
+0,USA,IGFK,         ,          ,KGFK,GRAND FORKS INTL         
+0,USA,IACD,         ,          ,KGJT,GRAND JUNCTION RGNL      
+0,USA,IGJT,         ,          ,KGJT,GRAND JUNCTION RGNL      
+0,USA,IGKY,         ,          ,KGKY,ARLINGTON MUNI           
+0,USA,IGLD,         ,          ,KGLD,RENNER FLD /GOODLAND MUN 
+0,USA,IGON,         ,          ,KGON,GROTON-NEW LONDON        
+0,USA,ICUE,         ,          ,KGPH,MIDWEST NTL AIR CENTER   
+0,USA,IGRB,         ,          ,KGRB,GREEN BAY/AUSTIN STRAUBE 
+0,USA,IGRF,         ,          ,KGRF,GRAY AAF (JOINT BASE LEW 
+0,USA,IBTJ,         ,          ,KGRK,ROBERT GRAY AAF          
+0,USA,IGFN,         ,          ,KGSO,PIEDMONT TRIAD INTL      
+0,USA,IIDB,         ,          ,KGSO,PIEDMONT TRIAD INTL      
+0,USA,ILLG,         ,          ,KGSO,PIEDMONT TRIAD INTL      
+0,USA,ILZY,         ,          ,KGSO,PIEDMONT TRIAD INTL      
+0,USA,IGSP,         ,          ,KGSP,GREENVILLE SPARTANBURG I 
+0,USA,IAEZ,         ,          ,KGTB,WHEELER-SACK AAF         
+0,USA,IGTB,         ,          ,KGTB,WHEELER-SACK AAF         
+0,USA,ISMR,         ,          ,KGTF,GREAT FALLS INTL         
+0,USA,IRVT,         ,          ,KGTR,GOLDEN TRIANGLE RGNL     
+0,USA,IGUC,         ,          ,KGUC,GUNNISON-CRESTED BUTTE R 
+0,USA,IGUP,         ,          ,KGUP,GALLUP MUNI              
+0,USA,IGVL,         ,          ,KGVL,LEE GILMER MEML          
+0,USA,IGVT,         ,          ,KGVT,MAJORS                   
+0,USA,IGWB,         ,          ,KGWB,DE KALB COUNTY           
+0,USA,IDCI,         ,          ,KGXY,GREELEY-WELD COUNTY      
+0,USA,IGYH,         ,          ,KGYH,DONALDSON FLD            
+0,USA,IGYY,         ,          ,KGYY,GARY/CHICAGO INTL        
+0,USA,IRQF,         ,          ,KHAO,BUTLER COUNTY RGNL/HOGAN 
+0,USA,IHDN,         ,          ,KHDN,YAMPA VALLEY             
+0,USA,IHGR,         ,          ,KHGR,HAGERSTOWN RGNL/RICHARD  
+0,USA,IUYK,         ,          ,KHGR,HAGERSTOWN RGNL/RICHARD  
+0,USA,IHOB,         ,          ,KHOB,LEA COUNTY RGNL          
+0,USA,IHON,         ,          ,KHON,HURON RGNL               
+0,USA,IFKP,         ,          ,KHOP,CAMPBELL AAF (FORT CAMPB 
+0,USA,IHOT,         ,          ,KHOT,MEML FLD                 
+0,USA,IHUB,         ,          ,KHOU,WILLIAM P HOBBY          
+0,USA,IOIB,         ,          ,KHOU,WILLIAM P HOBBY          
+0,USA,IPRQ,         ,          ,KHOU,WILLIAM P HOBBY          
+0,USA,IUPU,         ,          ,KHOU,WILLIAM P HOBBY          
+0,USA,IHPN,         ,          ,KHPN,WESTCHESTER COUNTY       
+0,USA,IOJZ,         ,          ,KHPN,WESTCHESTER COUNTY       
+0,USA,IHQM,         ,          ,KHQM,BOWERMAN                 
+0,USA,IHQZ,         ,          ,KHQZ,MESQUITE METRO           
+0,USA,IHRJ,         ,          ,KHRJ,HARNETT RGNL JETPORT     
+0,USA,IHRL,         ,          ,KHRL,VALLEY INTL              
+0,USA,IHRO,         ,          ,KHRO,BOONE COUNTY             
+0,USA,IJJC,         ,          ,KHSV,HUNTSVILLE INTL-CARL T J 
+0,USA,IHVN,         ,          ,KHVN,TWEED/NEW HAVEN          
+0,USA,IHWD,         ,          ,KHWD,HAYWARD EXEC             
+0,USA,IHWY,         ,          ,KHWY,WARRENTON/FAUQUIER       
+0,USA,IHXD,         ,          ,KHXD,HILTON HEAD              
+0,USA,IBCU,         ,          ,KHYA,CAPE COD GATEWAY         
+0,USA,IHYA,         ,          ,KHYA,CAPE COD GATEWAY         
+0,USA,IHTY,         ,          ,KHYR,SAWYER COUNTY            
+0,USA,IHQW,         ,          ,KHYX,SAGINAW COUNTY H W BROWN 
+0,USA,IHZL,         ,          ,KHZL,HAZLETON RGNL            
+0,USA,IHZR,         ,          ,KHZR,FALSE RIVER RGNL         
+0,USA,IIAD,         ,          ,KIAD,WASHINGTON DULLES INTL   
+0,USA,IISU,         ,          ,KIAD,WASHINGTON DULLES INTL   
+0,USA,IOIU,         ,          ,KIAD,WASHINGTON DULLES INTL   
+0,USA,ISGC,         ,          ,KIAD,WASHINGTON DULLES INTL   
+0,USA,IBZU,         ,          ,KIAH,GEORGE BUSH INTCNTL/HOUS 
+0,USA,IGHI,         ,          ,KIAH,GEORGE BUSH INTCNTL/HOUS 
+0,USA,IIAH,         ,          ,KIAH,GEORGE BUSH INTCNTL/HOUS 
+0,USA,IJYV,         ,          ,KIAH,GEORGE BUSH INTCNTL/HOUS 
+0,USA,IOND,         ,          ,KIAH,GEORGE BUSH INTCNTL/HOUS 
+0,USA,IUYO,         ,          ,KIAH,GEORGE BUSH INTCNTL/HOUS 
+0,USA,IICT,         ,          ,KICT,WICHITA DWIGHT D EISENHO 
+0,USA,IMVP,         ,          ,KICT,WICHITA DWIGHT D EISENHO 
+0,USA,IIDA,         ,          ,KIDA,IDAHO FALLS RGNL         
+0,USA,IIDP,         ,          ,KIDP,INDEPENDENCE MUNI        
+0,USA,IXJX,         ,          ,KIGQ,LANSING MUNI             
+0,USA,IIJD,         ,          ,KIJD,WINDHAM                  
+0,USA,IFVH,         ,          ,KIKV,ANKENY RGNL              
+0,USA,IILE,         ,          ,KILE,SKYLARK FLD              
+0,USA,IGNM,         ,          ,KILM,WILMINGTON INTL          
+0,USA,IIYV,         ,          ,KILN,WILMINGTON AIR PARK      
+0,USA,IRHX,         ,          ,KILN,WILMINGTON AIR PARK      
+0,USA,IFVJ,         ,          ,KIND,INDIANAPOLIS INTL        
+0,USA,IIND,         ,          ,KIND,INDIANAPOLIS INTL        
+0,USA,IOQV,         ,          ,KIND,INDIANAPOLIS INTL        
+0,USA,IUZK,         ,          ,KIND,INDIANAPOLIS INTL        
+0,USA,IIPJ,         ,          ,KIPJ,LINCOLNTON-LINCOLN COUNT 
+0,USA,IIPT,         ,          ,KIPT,WILLIAMSPORT RGNL        
+0,USA,IIRK,         ,          ,KIRK,KIRKSVILLE RGNL          
+0,USA,IISM,         ,          ,KISM,KISSIMMEE GATEWAY        
+0,USA,IISP,         ,          ,KISP,LONG ISLAND MAC ARTHUR   
+0,USA,IOBG,         ,          ,KITR,KIT CARSON COUNTY        
+0,USA,IIXD,         ,          ,KIXD,NEW CENTURY AIRCENTER    
+0,USA,IJAC,         ,          ,KJAC,JACKSON HOLE             
+0,USA,IJEF,         ,          ,KJEF,JEFFERSON CITY MEML      
+0,USA,IHIQ,         ,          ,KJFK,JOHN F KENNEDY INTL      
+0,USA,IIWY,         ,          ,KJFK,JOHN F KENNEDY INTL      
+0,USA,IJFK,         ,          ,KJFK,JOHN F KENNEDY INTL      
+0,USA,IJOC,         ,          ,KJFK,JOHN F KENNEDY INTL      
+0,USA,IRTH,         ,          ,KJFK,JOHN F KENNEDY INTL      
+0,USA,ITLK,         ,          ,KJFK,JOHN F KENNEDY INTL      
+0,USA,IJFX,         ,          ,KJFX,WALKER COUNTY-BEVILL FLD 
+0,USA,IJFZ,         ,          ,KJFZ,TAZEWELL COUNTY          
+0,USA,IJHW,         ,          ,KJHW,CHAUTAUQUA COUNTY/JAMEST 
+0,USA,IJKA,         ,          ,KJKA,GULF SHORES INTL/JACK ED 
+0,USA,IJQX,         ,          ,KJLN,JOPLIN RGNL              
+0,USA,IJNX,         ,          ,KJNX,JOHNSTON RGNL            
+0,USA,IJQF,         ,          ,KJQF,CONCORD-PADGETT RGNL     
+0,USA,IREE,         ,          ,KJVL,SOUTHERN WISCONSIN RGNL  
+0,USA,IJVW,         ,          ,KJVW,JOHN BELL WILLIAMS       
+0,USA,IJWN,         ,          ,KJWN,JOHN C TUNE              
+0,USA,IJYO,         ,          ,KJYO,LEESBURG EXEC            
+0,USA,IETI,         ,          ,KJZI,CHARLESTON EXEC          
+0,USA,ILAL,         ,          ,KLAL,LAKELAND LINDER INTL     
+0,USA,ILAN,         ,          ,KLAN,CAPITAL REGION INTL      
+0,USA,ICUA,         ,          ,KLAS,HARRY REID INTL          
+0,USA,ILAS,         ,          ,KLAS,HARRY REID INTL          
+0,USA,IRLE,         ,          ,KLAS,HARRY REID INTL          
+0,USA,ICFN,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,IGPE,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,IHQB,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,IIAS,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,ILAX,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,IMKZ,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,IOSS,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,IUWU,         ,          ,KLAX,LOS ANGELES INTL         
+0,USA,ILBB,         ,          ,KLBB,LUBBOCK PRESTON SMITH IN 
+0,USA,ILBX,         ,          ,KLBX,TEXAS GULF COAST RGNL    
+0,USA,ILCH,         ,          ,KLCH,LAKE CHARLES RGNL        
+0,USA,ILCI,         ,          ,KLCI,LACONIA MUNI             
+0,USA,IDDV,         ,          ,KLCK,RICKENBACKER INTL        
+0,USA,IFQS,         ,          ,KLCK,RICKENBACKER INTL        
+0,USA,IDVR,         ,          ,KLEB,LEBANON MUNI             
+0,USA,ILFT,         ,          ,KLFT,LAFAYETTE RGNL/PAUL FOUR 
+0,USA,ITYN,         ,          ,KLFT,LAFAYETTE RGNL/PAUL FOUR 
+0,USA,IGDI,         ,          ,KLGA,LAGUARDIA                
+0,USA,ILGA,         ,          ,KLGA,LAGUARDIA                
+0,USA,IPZV,         ,          ,KLGA,LAGUARDIA                
+0,USA,ITKD,         ,          ,KLGA,LAGUARDIA                
+0,USA,IURD,         ,          ,KLGA,LAGUARDIA                
+0,USA,ILGU,         ,          ,KLGU,LOGAN-CACHE              
+0,USA,ILHM,         ,          ,KLHM,LINCOLN RGNL/KARL HARDER 
+0,USA,ILHZ,         ,          ,KLHZ,TRIANGLE NORTH EXEC      
+0,USA,IAAY,         ,          ,KLIT,BILL AND HILLARY CLINTON 
+0,USA,IBWY,         ,          ,KLIT,BILL AND HILLARY CLINTON 
+0,USA,ICNL,         ,          ,KLIT,BILL AND HILLARY CLINTON 
+0,USA,ILIT,         ,          ,KLIT,BILL AND HILLARY CLINTON 
+0,USA,ILKU,         ,          ,KLKU,LOUISA COUNTY/FREEMAN FL 
+0,USA,IOWN,         ,          ,KLNP,LONESOME PINE            
+0,USA,ILNR,         ,          ,KLNR,TRI-COUNTY RGNL          
+0,USA,IJQH,         ,          ,KLOT,LEWIS UNIVERSITY         
+0,USA,ILOT,         ,          ,KLOT,LEWIS UNIVERSITY         
+0,USA,ILOZ,         ,          ,KLOZ,LONDON/CORBIN/MAGEE      
+0,USA,ILRD,         ,          ,KLRD,LAREDO INTL              
+0,USA,ILRU,         ,          ,KLRU,LAS CRUCES INTL          
+0,USA,ILUK,         ,          ,KLUK,CINCINNATI MUNI/LUNKEN F 
+0,USA,ILVK,         ,          ,KLVK,LIVERMORE MUNI           
+0,USA,IMAC,         ,          ,KMAC,MACON DOWNTOWN           
+0,USA,IMAF,         ,          ,KMAF,MIDLAND INTL AIR AND SPA 
+0,USA,ITQR,         ,          ,KMBS,MBS INTL                 
+0,USA,IMCE,         ,          ,KMCE,MERCED RGNL/MACREADY FLD 
+0,USA,IDOT,         ,          ,KMCI,KANSAS CITY INTL         
+0,USA,IDYH,         ,          ,KMCI,KANSAS CITY INTL         
+0,USA,IPAJ,         ,          ,KMCI,KANSAS CITY INTL         
+0,USA,IPVL,         ,          ,KMCI,KANSAS CITY INTL         
+0,USA,IRNI,         ,          ,KMCI,KANSAS CITY INTL         
+0,USA,IUQY,         ,          ,KMCI,KANSAS CITY INTL         
+0,USA,IMCK,         ,          ,KMCK,MC COOK BEN NELSON RGNL  
+0,USA,IARK,         ,          ,KMCO,ORLANDO INTL             
+0,USA,ICER,         ,          ,KMCO,ORLANDO INTL             
+0,USA,IDDO,         ,          ,KMCO,ORLANDO INTL             
+0,USA,IDIZ,         ,          ,KMCO,ORLANDO INTL             
+0,USA,IOJP,         ,          ,KMCO,ORLANDO INTL             
+0,USA,ITFE,         ,          ,KMCO,ORLANDO INTL             
+0,USA,IMDQ,         ,          ,KMDQ,HUNTSVILLE EXEC TOM SHAR 
+0,USA,IHKH,         ,          ,KMDW,CHICAGO MIDWAY INTL      
+0,USA,IMDW,         ,          ,KMDW,CHICAGO MIDWAY INTL      
+0,USA,IMXT,         ,          ,KMDW,CHICAGO MIDWAY INTL      
+0,USA,IIKQ,         ,          ,KMEI,KEY FLD                  
+0,USA,IEXS,         ,          ,KMEM,MEMPHIS INTL             
+0,USA,IMYO,         ,          ,KMEM,MEMPHIS INTL             
+0,USA,IOHN,         ,          ,KMEM,MEMPHIS INTL             
+0,USA,ITSE,         ,          ,KMEM,MEMPHIS INTL             
+0,USA,IVMU,         ,          ,KMEZ,MENA INTERMOUNTAIN MUNI  
+0,USA,ILLM,         ,          ,KMFE,MC ALLEN MILLER INTL     
+0,USA,IMFE,         ,          ,KMFE,MC ALLEN MILLER INTL     
+0,USA,IMFR,         ,          ,KMFR,ROGUE VALLEY INTL - MEDF 
+0,USA,IMFV,         ,          ,KMFV,ACCOMACK COUNTY          
+0,USA,IMGY,         ,          ,KMGY,DAYTON-WRIGHT BROTHERS   
+0,USA,IMHR,         ,          ,KMHR,SACRAMENTO MATHER        
+0,USA,IMHT,         ,          ,KMHT,MANCHESTER BOSTON RGNL   
+0,USA,IMNA,         ,          ,KMHT,MANCHESTER BOSTON RGNL   
+0,USA,IBUL,         ,          ,KMIA,MIAMI INTL               
+0,USA,ICNV,         ,          ,KMIA,MIAMI INTL               
+0,USA,IDCX,         ,          ,KMIA,MIAMI INTL               
+0,USA,IGEM,         ,          ,KMIA,MIAMI INTL               
+0,USA,IMFA,         ,          ,KMIA,MIAMI INTL               
+0,USA,IROY,         ,          ,KMIA,MIAMI INTL               
+0,USA,IVIN,         ,          ,KMIA,MIAMI INTL               
+0,USA,IGQR,         ,          ,KMKC,CHARLES B WHEELER DOWNTO 
+0,USA,IMKC,         ,          ,KMKC,CHARLES B WHEELER DOWNTO 
+0,USA,IBLY,         ,          ,KMKE,GENERAL MITCHELL INTL    
+0,USA,IGMF,         ,          ,KMKE,GENERAL MITCHELL INTL    
+0,USA,IMKE,         ,          ,KMKE,GENERAL MITCHELL INTL    
+0,USA,IPXY,         ,          ,KMKE,GENERAL MITCHELL INTL    
+0,USA,ICJH,         ,          ,KMKG,MUSKEGON COUNTY          
+0,USA,IMKG,         ,          ,KMKG,MUSKEGON COUNTY          
+0,USA,IMKJ,         ,          ,KMKJ,MOUNTAIN EMPIRE          
+0,USA,IMKL,         ,          ,KMKL,MC KELLAR-SIPES RGNL     
+0,USA,IGEQ,         ,          ,KMLI,QUAD CITIES INTL         
+0,USA,IMLI,         ,          ,KMLI,QUAD CITIES INTL         
+0,USA,IMOR,         ,          ,KMOR,MOORE-MURRELL            
+0,USA,IMOT,         ,          ,KMOT,MINOT INTL               
+0,USA,IMPV,         ,          ,KMPV,EDWARD F KNAPP STATE     
+0,USA,IMRY,         ,          ,KMRY,MONTEREY RGNL            
+0,USA,IMTB,         ,          ,KMRY,MONTEREY RGNL            
+0,USA,IDQJ,         ,          ,KMSN,DANE COUNTY RGNL/TRUAX F 
+0,USA,IDSZ,         ,          ,KMSN,DANE COUNTY RGNL/TRUAX F 
+0,USA,IMSN,         ,          ,KMSN,DANE COUNTY RGNL/TRUAX F 
+0,USA,IBMA,         ,          ,KMSP,MINNEAPOLIS-ST PAUL INTL 
+0,USA,IHKZ,         ,          ,KMSP,MINNEAPOLIS-ST PAUL INTL 
+0,USA,IINN,         ,          ,KMSP,MINNEAPOLIS-ST PAUL INTL 
+0,USA,IMSP,         ,          ,KMSP,MINNEAPOLIS-ST PAUL INTL 
+0,USA,IPJL,         ,          ,KMSP,MINNEAPOLIS-ST PAUL INTL 
+0,USA,ITJZ,         ,          ,KMSP,MINNEAPOLIS-ST PAUL INTL 
+0,USA,IHOX,         ,          ,KMSY,LOUIS ARMSTRONG NEW ORLE 
+0,USA,IJFI,         ,          ,KMSY,LOUIS ARMSTRONG NEW ORLE 
+0,USA,IMSY,         ,          ,KMSY,LOUIS ARMSTRONG NEW ORLE 
+0,USA,IONW,         ,          ,KMSY,LOUIS ARMSTRONG NEW ORLE 
+0,USA,IBQG,         ,          ,KMTN,MARTIN STATE             
+0,USA,IMTN,         ,          ,KMTN,MARTIN STATE             
+0,USA,IUVM,         ,          ,KMTV,BLUE RIDGE               
+0,USA,ILUC,         ,          ,KMUT,MUSCATINE MUNI           
+0,USA,IMVY,         ,          ,KMVY,MARTHA'S VINEYARD        
+0,USA,IVMH,         ,          ,KMWL,MINERAL WELLS RGNL       
+0,USA,IMYF,         ,          ,KMYF,MONTGOMERY-GIBBS EXEC    
+0,USA,IEYR,         ,          ,KMYJ,MEXICO MEML              
+0,USA,IMYR,         ,          ,KMYR,MYRTLE BEACH INTL        
+0,USA,INCA,         ,          ,KNCA,NEW RIVER MCAS /H/ MCCUT 
+0,USA,INDZ,         ,          ,KNDZ,WHITING FLD NAS SOUTH    
+0,USA,INEW,         ,          ,KNEW,LAKEFRONT                
+0,USA,INFW,         ,          ,KNFW,FORT WORTH NAS JRB (CARS 
+0,USA,INGU,         ,          ,KNGU,NORFOLK NS (CHAMBERS FLD 
+0,USA,INHK,         ,          ,KNHK,PATUXENT RIVER NAS/TRAPN 
+0,USA,INKT,         ,          ,KNKT,CHERRY POINT MCAS (CUNNI 
+0,USA,INKX,         ,          ,KNKX,MIRAMAR MCAS (JOE FOSS F 
+0,USA,INOG,         ,          ,KNOG,ORANGE GROVE NALF        
+0,USA,INQA,         ,          ,KNQA,MILLINGTON/MEMPHIS       
+0,USA,INSE,         ,          ,KNSE,WHITING FLD NAS NORTH    
+0,USA,IRRG,         ,          ,KNTD,POINT MUGU NAS (NAVAL BA 
+0,USA,IMNQ,         ,          ,KNUQ,MOFFETT FEDERAL AIRFIELD 
+0,USA,INUQ,         ,          ,KNUQ,MOFFETT FEDERAL AIRFIELD 
+0,USA,INUW,         ,          ,KNUW,WHIDBEY ISLAND NAS (AULT 
+0,USA,IOAJ,         ,          ,KOAJ,ALBERT J ELLIS           
+0,USA,IINB,         ,          ,KOAK,METRO OAKLAND INTL       
+0,USA,IOCH,         ,          ,KOCH,NACOGDOCHES A L MANGHAM  
+0,USA,IOCW,         ,          ,KOCW,WASHINGTON-WARREN        
+0,USA,IOFP,         ,          ,KOFP,HANOVER COUNTY MUNI      
+0,USA,IOGD,         ,          ,KOGD,OGDEN-HINCKLEY           
+0,USA,IOGS,         ,          ,KOGS,OGDENSBURG INTL          
+0,USA,IOJC,         ,          ,KOJC,JOHNSON COUNTY EXEC      
+0,USA,IEXR,         ,          ,KOKC,WILL ROGERS WORLD        
+0,USA,ILIK,         ,          ,KOKC,WILL ROGERS WORLD        
+0,USA,IOKC,         ,          ,KOKC,WILL ROGERS WORLD        
+0,USA,IRGR,         ,          ,KOKC,WILL ROGERS WORLD        
+0,USA,ITZX,         ,          ,KOKV,WINCHESTER RGNL          
+0,USA,IEVO,         ,          ,KOLV,OLIVE BRANCH             
+0,USA,IOLV,         ,          ,KOLV,OLIVE BRANCH             
+0,USA,ILZW,         ,          ,KOLY,OLNEY-NOBLE              
+0,USA,IEDI,         ,          ,KOMA,EPPLEY AIRFIELD          
+0,USA,IENF,         ,          ,KOMA,EPPLEY AIRFIELD          
+0,USA,IOGN,         ,          ,KOMA,EPPLEY AIRFIELD          
+0,USA,IOMA,         ,          ,KOMA,EPPLEY AIRFIELD          
+0,USA,IPPY,         ,          ,KOMA,EPPLEY AIRFIELD          
+0,USA,IRAY,         ,          ,KOMA,EPPLEY AIRFIELD          
+0,USA,IONA,         ,          ,KONA,WINONA MUNI-MAX CONRAD F 
+0,USA,IONT,         ,          ,KONT,ONTARIO INTL             
+0,USA,ITWO,         ,          ,KONT,ONTARIO INTL             
+0,USA,IOLX,         ,          ,KOPF,MIAMI-OPA LOCKA EXEC     
+0,USA,IPLJ,         ,          ,KOPF,MIAMI-OPA LOCKA EXEC     
+0,USA,IOPN,         ,          ,KOPN,THOMASTON-UPSON COUNTY   
+0,USA,IOQU,         ,          ,KOQU,QUONSET STATE            
+0,USA,IABU,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IBYW,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IIAC,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IIZJ,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IJAV,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IMED,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IOYG,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,ISAJ,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,ISXH,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,ITSL,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IUYJ,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IVQX,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IVZE,         ,          ,KORD,CHICAGO O'HARE INTL      
+0,USA,IJZQ,         ,          ,KORF,NORFOLK INTL             
+0,USA,IORF,         ,          ,KORF,NORFOLK INTL             
+0,USA,IEKW,         ,          ,KORH,WORCESTER RGNL           
+0,USA,IRSR,         ,          ,KORH,WORCESTER RGNL           
+0,USA,IORK,         ,          ,KORK,NORTH LITTLE ROCK MUNI   
+0,USA,IEXO,         ,          ,KORL,EXEC                     
+0,USA,IBWM,         ,          ,KOUN,UNIVERSITY OF OKLAHOMA W 
+0,USA,IPHY,         ,          ,KOUN,UNIVERSITY OF OKLAHOMA W 
+0,USA,IOWA,         ,          ,KOWA,OWATONNA DEGNER RGNL     
+0,USA,IOWD,         ,          ,KOWD,NORWOOD MEML             
+0,USA,IOXB,         ,          ,KOXB,OCEAN CITY MUNI          
+0,USA,IOXC,         ,          ,KOXC,WATERBURY-OXFORD         
+0,USA,IOYM,         ,          ,KOYM,ST MARYS MUNI            
+0,USA,IOZR,         ,          ,KOZR,CAIRNS AAF (FORT RUCKER) 
+0,USA,IOGO,         ,          ,KOZW,LIVINGSTON COUNTY SPENCE 
+0,USA,IFQV,         ,          ,KPBG,PLATTSBURGH INTL         
+0,USA,IPBI,         ,          ,KPBI,PALM BEACH INTL          
+0,USA,IPBX,         ,          ,KPBX,PIKE COUNTY/HATCHER FLD  
+0,USA,IGPO,         ,          ,KPDX,PORTLAND INTL            
+0,USA,IIAP,         ,          ,KPDX,PORTLAND INTL            
+0,USA,IJMJ,         ,          ,KPDX,PORTLAND INTL            
+0,USA,IPDX,         ,          ,KPDX,PORTLAND INTL            
+0,USA,IVDG,         ,          ,KPDX,PORTLAND INTL            
+0,USA,IPGD,         ,          ,KPGD,PUNTA GORDA              
+0,USA,IPGV,         ,          ,KPGV,PITT-GREENVILLE          
+0,USA,IDHY,         ,          ,KPHF,NEWPORT NEWS/WILLIAMSBUR 
+0,USA,IFJQ,         ,          ,KPHF,NEWPORT NEWS/WILLIAMSBUR 
+0,USA,IPHF,         ,          ,KPHF,NEWPORT NEWS/WILLIAMSBUR 
+0,USA,IGLC,         ,          ,KPHL,PHILADELPHIA INTL        
+0,USA,ILLH,         ,          ,KPHL,PHILADELPHIA INTL        
+0,USA,IMYY,         ,          ,KPHL,PHILADELPHIA INTL        
+0,USA,IPDP,         ,          ,KPHL,PHILADELPHIA INTL        
+0,USA,IPHL,         ,          ,KPHL,PHILADELPHIA INTL        
+0,USA,IVII,         ,          ,KPHL,PHILADELPHIA INTL        
+0,USA,IAHA,         ,          ,KPHX,PHOENIX SKY HARBOR INTL  
+0,USA,ICWJ,         ,          ,KPHX,PHOENIX SKY HARBOR INTL  
+0,USA,IPHX,         ,          ,KPHX,PHOENIX SKY HARBOR INTL  
+0,USA,IRJG,         ,          ,KPHX,PHOENIX SKY HARBOR INTL  
+0,USA,ISYQ,         ,          ,KPHX,PHOENIX SKY HARBOR INTL  
+0,USA,IRNX,         ,          ,KPIA,GENERAL DOWNING - PEORIA 
+0,USA,ICWT,         ,          ,KPIE,ST PETE-CLEARWATER INTL  
+0,USA,IPIH,         ,          ,KPIH,POCATELLO RGNL           
+0,USA,IPIR,         ,          ,KPIR,PIERRE RGNL              
+0,USA,ITQW,         ,          ,KPIT,PITTSBURGH INTL          
+0,USA,IPMP,         ,          ,KPMP,POMPANO BEACH AIRPARK    
+0,USA,IPMU,         ,          ,KPMU,PANOLA COUNTY            
+0,USA,IPNC,         ,          ,KPNC,PONCA CITY RGNL          
+0,USA,IPHC,         ,          ,KPNS,PENSACOLA INTL           
+0,USA,IPNS,         ,          ,KPNS,PENSACOLA INTL           
+0,USA,IPQL,         ,          ,KPQL,TRENT LOTT INTL          
+0,USA,IPRC,         ,          ,KPRC,PRESCOTT RGNL - ERNEST A 
+0,USA,IPSC,         ,          ,KPSC,TRI-CITIES               
+0,USA,IEIF,         ,          ,KPSF,PITTSFIELD MUNI          
+0,USA,IJLS,         ,          ,KPTB,DINWIDDIE COUNTY         
+0,USA,IPTN,         ,          ,KPTN,HARRY P WILLIAMS MEML    
+0,USA,IPUC,         ,          ,KPUC,CARBON COUNTY RGNL/BUCK  
+0,USA,IPUJ,         ,          ,KPUJ,PAULDING NORTHWEST ATLAN 
+0,USA,IPUW,         ,          ,KPUW,PULLMAN/MOSCOW RGNL      
+0,USA,IVQO,         ,          ,KPVC,PROVINCETOWN MUNI        
+0,USA,IARJ,         ,          ,KPVD,RHODE ISLAND TF GREEN IN 
+0,USA,IPVD,         ,          ,KPVD,RHODE ISLAND TF GREEN IN 
+0,USA,IUNQ,         ,          ,KPVD,RHODE ISLAND TF GREEN IN 
+0,USA,IPVG,         ,          ,KPVG,HAMPTON ROADS EXEC       
+0,USA,IPVU,         ,          ,KPVU,PROVO MUNI               
+0,USA,ITFM,         ,          ,KPWA,WILEY POST               
+0,USA,IPWK,         ,          ,KPWK,CHICAGO EXEC             
+0,USA,IGCS,         ,          ,KPWM,PORTLAND INTL JETPORT    
+0,USA,IPWM,         ,          ,KPWM,PORTLAND INTL JETPORT    
+0,USA,IPYM,         ,          ,KPYM,PLYMOUTH MUNI            
+0,USA,IRAP,         ,          ,KRAP,RAPID CITY RGNL          
+0,USA,IRBD,         ,          ,KRBD,DALLAS EXEC              
+0,USA,IRBW,         ,          ,KRBW,LOWCOUNTRY RGNL          
+0,USA,IRDD,         ,          ,KRDD,REDDING MUNI             
+0,USA,IVXO,         ,          ,KRDG,READING RGNL/CARL A SPAA 
+0,USA,IRDM,         ,          ,KRDM,ROBERTS FLD              
+0,USA,IDMP,         ,          ,KRDU,RALEIGH-DURHAM INTL      
+0,USA,IGKK,         ,          ,KRDU,RALEIGH-DURHAM INTL      
+0,USA,ILEI,         ,          ,KRDU,RALEIGH-DURHAM INTL      
+0,USA,IRDU,         ,          ,KRDU,RALEIGH-DURHAM INTL      
+0,USA,IRFD,         ,          ,KRFD,CHICAGO/ROCKFORD INTL    
+0,USA,IUDY,         ,          ,KRFD,CHICAGO/ROCKFORD INTL    
+0,USA,IRIL,         ,          ,KRIL,RIFLE GARFIELD COUNTY    
+0,USA,IRMZ,         ,          ,KRKD,KNOX COUNTY RGNL         
+0,USA,IRKS,         ,          ,KRKS,SOUTHWEST WYOMING RGNL   
+0,USA,IRLD,         ,          ,KRLD,RICHLAND                 
+0,USA,IRME,         ,          ,KRME,GRIFFISS INTL            
+0,USA,IHBQ,         ,          ,KRMG,RICHARD B RUSSELL RGNL - 
+0,USA,IRMN,         ,          ,KRMN,STAFFORD RGNL            
+0,USA,IAGY,         ,          ,KRNO,RENO/TAHOE INTL          
+0,USA,IRNO,         ,          ,KRNO,RENO/TAHOE INTL          
+0,USA,ISZK,         ,          ,KROA,ROANOKE/BLACKSBURG RGNL  
+0,USA,IROC,         ,          ,KROC,FREDERICK DOUGLASS/GREAT 
+0,USA,IROG,         ,          ,KROG,ROGERS EXEC - CARTER FLD 
+0,USA,IROW,         ,          ,KROW,ROSWELL AIR CENTER       
+0,USA,ISWE,         ,          ,KRRT,WARROAD INTL MEML        
+0,USA,IRSW,         ,          ,KRSW,SOUTHWEST FLORIDA INTL   
+0,USA,IRTS,         ,          ,KRTS,RENO/STEAD               
+0,USA,IRUT,         ,          ,KRUT,RUTLAND - SOUTHERN VERMO 
+0,USA,IRYM,         ,          ,KRYM,RAY S MILLER AAF         
+0,USA,IRYY,         ,          ,KRYY,COBB COUNTY INTL/MCCOLLU 
+0,USA,ISGB,         ,          ,KSAF,SANTA FE MUNI            
+0,USA,ISAN,         ,          ,KSAN,SAN DIEGO INTL           
+0,USA,IUBR,         ,          ,KSAN,SAN DIEGO INTL           
+0,USA,IANT,         ,          ,KSAT,SAN ANTONIO INTL         
+0,USA,IIZR,         ,          ,KSAT,SAN ANTONIO INTL         
+0,USA,ISAT,         ,          ,KSAT,SAN ANTONIO INTL         
+0,USA,ISAV,         ,          ,KSAV,SAVANNAH/HILTON HEAD INT 
+0,USA,ISBA,         ,          ,KSBA,SANTA BARBARA MUNI       
+0,USA,IHEV,         ,          ,KSBM,SHEBOYGAN COUNTY MEML    
+0,USA,ISBO,         ,          ,KSBO,EAST GEORGIA RGNL        
+0,USA,ISCK,         ,          ,KSCK,STOCKTON METRO           
+0,USA,IJJM,         ,          ,KSDF,LOUISVILLE MUHAMMAD ALI  
+0,USA,IPKI,         ,          ,KSDF,LOUISVILLE MUHAMMAD ALI  
+0,USA,IRLI,         ,          ,KSDF,LOUISVILLE MUHAMMAD ALI  
+0,USA,ISNU,         ,          ,KSDF,LOUISVILLE MUHAMMAD ALI  
+0,USA,IBEJ,         ,          ,KSEA,SEATTLE-TACOMA INTL      
+0,USA,ICJL,         ,          ,KSEA,SEATTLE-TACOMA INTL      
+0,USA,ISEA,         ,          ,KSEA,SEATTLE-TACOMA INTL      
+0,USA,ISNQ,         ,          ,KSEA,SEATTLE-TACOMA INTL      
+0,USA,ISZI,         ,          ,KSEA,SEATTLE-TACOMA INTL      
+0,USA,ITUC,         ,          ,KSEA,SEATTLE-TACOMA INTL      
+0,USA,ISEE,         ,          ,KSEE,GILLESPIE FLD            
+0,USA,ISEM,         ,          ,KSEM,CRAIG FLD                
+0,USA,IFNU,         ,          ,KSFB,ORLANDO SANFORD INTL     
+0,USA,IOOS,         ,          ,KSFB,ORLANDO SANFORD INTL     
+0,USA,ISND,         ,          ,KSFB,ORLANDO SANFORD INTL     
+0,USA,IFLZ,         ,          ,KSFF,FELTS FLD                
+0,USA,IGWQ,         ,          ,KSFO,SAN FRANCISCO INTL       
+0,USA,ISFO,         ,          ,KSFO,SAN FRANCISCO INTL       
+0,USA,ISIA,         ,          ,KSFO,SAN FRANCISCO INTL       
+0,USA,IRKH,         ,          ,KSFQ,SUFFOLK EXEC             
+0,USA,ISFZ,         ,          ,KSFZ,NORTH CENTRAL STATE      
+0,USA,IGWA,         ,          ,KSGF,SPRINGFIELD-BRANSON NTL  
+0,USA,ISGF,         ,          ,KSGF,SPRINGFIELD-BRANSON NTL  
+0,USA,IGUH,         ,          ,KSGJ,NORTHEAST FLORIDA RGNL   
+0,USA,ITXH,         ,          ,KSGR,SUGAR LAND RGNL          
+0,USA,ISGS,         ,          ,KSGS,SOUTH ST PAUL MUNI-RICHA 
+0,USA,ITTL,         ,          ,KSGT,STUTTGART MUNI CARL HUMP 
+0,USA,ISGU,         ,          ,KSGU,ST GEORGE RGNL           
+0,USA,ISHR,         ,          ,KSHR,SHERIDAN COUNTY          
+0,USA,IMWP,         ,          ,KSHV,SHREVEPORT RGNL          
+0,USA,ISHV,         ,          ,KSHV,SHREVEPORT RGNL          
+0,USA,ISJC,         ,          ,KSJC,NORMAN Y MINETA SAN JOSE 
+0,USA,ISLV,         ,          ,KSJC,NORMAN Y MINETA SAN JOSE 
+0,USA,ISJT,         ,          ,KSJT,SAN ANGELO RGNL/MATHIS F 
+0,USA,IBNT,         ,          ,KSLC,SALT LAKE CITY INTL      
+0,USA,IMOY,         ,          ,KSLC,SALT LAKE CITY INTL      
+0,USA,ISLC,         ,          ,KSLC,SALT LAKE CITY INTL      
+0,USA,IUAT,         ,          ,KSLC,SALT LAKE CITY INTL      
+0,USA,IUTJ,         ,          ,KSLC,SALT LAKE CITY INTL      
+0,USA,IUUH,         ,          ,KSLC,SALT LAKE CITY INTL      
+0,USA,ISLE,         ,          ,KSLE,MCNARY FLD               
+0,USA,ISME,         ,          ,KSME,LAKE CUMBERLAND RGNL     
+0,USA,IHUX,         ,          ,KSMF,SACRAMENTO INTL          
+0,USA,IMDK,         ,          ,KSMF,SACRAMENTO INTL          
+0,USA,ISMF,         ,          ,KSMF,SACRAMENTO INTL          
+0,USA,ISMS,         ,          ,KSMS,SUMTER                   
+0,USA,ISMX,         ,          ,KSMX,SANTA MARIA PUB/CAPT G A 
+0,USA,IOJW,         ,          ,KSNA,JOHN WAYNE/ORANGE COUNTY 
+0,USA,ISNA,         ,          ,KSNA,JOHN WAYNE/ORANGE COUNTY 
+0,USA,IHNQ,         ,          ,KSNL,SHAWNEE RGNL             
+0,USA,ISOP,         ,          ,KSOP,MOORE COUNTY             
+0,USA,ISPA,         ,          ,KSPA,SPARTANBURG DOWNTOWN MEM 
+0,USA,IFKO,         ,          ,KSPB,SCAPPOOSE                
+0,USA,ISPS,         ,          ,KSPS,SHEPPARD AFB/WICHITA FAL 
+0,USA,ISQI,         ,          ,KSQI,WHITESIDE COUNTY/JOS H B 
+0,USA,ISRB,         ,          ,KSRB,UPPER CUMBERLAND RGNL    
+0,USA,IDSY,         ,          ,KSRC,SEARCY MUNI              
+0,USA,ISRR,         ,          ,KSRR,SIERRA BLANCA RGNL       
+0,USA,ISTE,         ,          ,KSTE,STEVENS POINT MUNI       
+0,USA,ISTF,         ,          ,KSTF,GEORGE M BRYAN           
+0,USA,IJAK,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,ILDZ,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,ILMR,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,IOGZ,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,IRQN,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,ISJW,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,ISTL,         ,          ,KSTL,ST LOUIS LAMBERT INTL    
+0,USA,IBAO,         ,          ,KSTP,ST PAUL DOWNTOWN HOLMAN  
+0,USA,IVKG,         ,          ,KSTP,ST PAUL DOWNTOWN HOLMAN  
+0,USA,ISUZ,         ,          ,KSUZ,SALINE COUNTY RGNL       
+0,USA,ISVC,         ,          ,KSVC,GRANT COUNTY             
+0,USA,ISVH,         ,          ,KSVH,STATESVILLE RGNL         
+0,USA,ISVN,         ,          ,KSVN,HUNTER AAF               
+0,USA,IJKH,         ,          ,KSWF,NEW YORK STEWART INTL    
+0,USA,ISWO,         ,          ,KSWO,STILLWATER RGNL          
+0,USA,IMRZ,         ,          ,KSYR,SYRACUSE HANCOCK INTL    
+0,USA,ISYR,         ,          ,KSYR,SYRACUSE HANCOCK INTL    
+0,USA,IRPO,         ,          ,KSZT,SANDPOINT                
+0,USA,ITBN,         ,          ,KTBN,WAYNESVILLE-ST ROBERT RG 
+0,USA,ITDF,         ,          ,KTDF,RALEIGH RGNL AT PERSON C 
+0,USA,ITJL,         ,          ,KTEB,TETERBORO                
+0,USA,ITEX,         ,          ,KTEX,TELLURIDE RGNL           
+0,USA,IEFE,         ,          ,KTKI,MCKINNEY NTL             
+0,USA,IPLQ,         ,          ,KTLH,TALLAHASSEE INTL         
+0,USA,ITLH,         ,          ,KTLH,TALLAHASSEE INTL         
+0,USA,ITMA,         ,          ,KTMA,HENRY TIFT MYERS         
+0,USA,ITOA,         ,          ,KTOA,ZAMPERINI FLD            
+0,USA,ITOI,         ,          ,KTOI,TROY MUNI AT N KENNETH C 
+0,USA,IBQE,         ,          ,KTOL,EUGENE F KRANZ TOLEDO EX 
+0,USA,IAMP,         ,          ,KTPA,TAMPA INTL               
+0,USA,IJRT,         ,          ,KTPA,TAMPA INTL               
+0,USA,ITWJ,         ,          ,KTPA,TAMPA INTL               
+0,USA,ITPL,         ,          ,KTPL,DRAUGHON-MILLER CENTRAL  
+0,USA,ITTA,         ,          ,KTTA,RALEIGH EXEC JETPORT AT  
+0,USA,IDWE,         ,          ,KTUL,TULSA INTL               
+0,USA,ITUL,         ,          ,KTUL,TULSA INTL               
+0,USA,ITUP,         ,          ,KTUP,TUPELO RGNL              
+0,USA,ITUS,         ,          ,KTUS,TUCSON INTL              
+0,USA,ITVI,         ,          ,KTVI,THOMASVILLE RGNL         
+0,USA,ITVL,         ,          ,KTVL,LAKE TAHOE               
+0,USA,ITVY,         ,          ,KTVY,BOLINDER FLD-TOOELE VALL 
+0,USA,ITXK,         ,          ,KTXK,TEXARKANA RGNL-WEBB FLD  
+0,USA,ITYR,         ,          ,KTYR,TYLER POUNDS RGNL        
+0,USA,IOXH,         ,          ,KTYS,MC GHEE TYSON            
+0,USA,IUAO,         ,          ,KUAO,AURORA STATE             
+0,USA,IUKF,         ,          ,KUKF,WILKES COUNTY            
+0,USA,IUKI,         ,          ,KUKI,UKIAH MUNI               
+0,USA,IJNE,         ,          ,KUNU,DODGE COUNTY             
+0,USA,IUTA,         ,          ,KUTA,TUNICA MUNI              
+0,USA,IOTI,         ,          ,KUUU,NEWPORT STATE            
+0,USA,IUZA,         ,          ,KUZA,ROCK HILL/YORK COUNTY/BR 
+0,USA,IVCT,         ,          ,KVCT,VICTORIA RGNL            
+0,USA,IVDF,         ,          ,KVDF,TAMPA EXEC               
+0,USA,IHWG,         ,          ,KVGT,NORTH LAS VEGAS          
+0,USA,IVJI,         ,          ,KVJI,VIRGINIA HIGHLANDS       
+0,USA,ICAH,         ,          ,KVPS,EGLIN AFB/DESTIN-FT WALT 
+0,USA,IVPS,         ,          ,KVPS,EGLIN AFB/DESTIN-FT WALT 
+0,USA,IVQQ,         ,          ,KVQQ,CECIL                    
+0,USA,IVSF,         ,          ,KVSF,HARTNESS STATE (SPRINGFI 
+0,USA,IIDR,         ,          ,KWDR,BARROW COUNTY            
+0,USA,IRLS,         ,          ,KWST,WESTERLY STATE           
+0,USA,IRLU,         ,          ,KWVL,WATERVILLE ROBERT LAFLEU 
+0,USA,IFBS,         ,          ,KXNA,NORTHWEST ARKANSAS NTL   
+0,USA,IXNA,         ,          ,KXNA,NORTHWEST ARKANSAS NTL   
+0,USA,IXWA,         ,          ,KXWA,WILLISTON BASIN INTL     
+0,USA,ILSW,         ,          ,KYIP,WILLOW RUN               
+0,USA,IYIP,         ,          ,KYIP,WILLOW RUN               
+0,USA,IYKM,         ,          ,KYKM,YAKIMA AIR TRML/MCALLIST 
+0,USA,ITNF,         ,          ,KZZV,ZANESVILLE MUNI          
+0,USA,IIYQ,         ,          ,W99 ,GRANT COUNTY             

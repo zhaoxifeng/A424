@@ -1,0 +1,7 @@
+"Column","Field Name (Length)","Reference"
+"1 thru 21","Fields as on Primary Record",""
+"22","Continuation Record No. (1)","5.16"
+"23","Application Type (1)","5.91"
+"24 thru 123","Time Narrative (100)","5.285"
+"124 thru 128","File Record No. (5)","5.31"
+"129 thru 132","Cycle Date (4)","5.32"
